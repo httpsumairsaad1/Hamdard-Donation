@@ -1,0 +1,2256 @@
+.fullpage {
+    width: 1440px;
+    height: 2600px;
+    overflow: hidden;
+    background: #FFFFFF;
+    .footer {
+        position: absolute;
+        top: 2224px;
+        left: 0px;
+        width: 1440px;
+        height: 376.47px;
+        .footerblack {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            background: #22262F;
+        }
+        .footerdata {
+            position: absolute;
+            top: 32.67%;
+            left: 21.39%;
+            right: 17.36%;
+            bottom: 22.8%;
+            width: calc(100% - 21.39% - 17.36%);
+            height: calc(100% - 32.67% - 22.8%);
+            .footer-quick-link {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 87.19%;
+                bottom: 18.28%;
+                width: calc(100% - 0% - 87.19%);
+                height: calc(100% - 0% - 18.28%);
+                .quick-link {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 23.01%;
+                    bottom: 86.86%;
+                    width: calc(100% - 0% - 23.01%);
+                    height: calc(100% - 0% - 86.86%);
+                    color: #FFFFFF;
+                    font-family: "Playfair Display";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 700;
+                }
+                .home {
+                    position: absolute;
+                    top: 29.2%;
+                    left: 0%;
+                    right: 31.86%;
+                    bottom: 58.39%;
+                    width: calc(100% - 0% - 31.86%);
+                    height: calc(100% - 29.2% - 58.39%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+                .about-us {
+                    position: absolute;
+                    top: 48.18%;
+                    left: 0%;
+                    right: 31.86%;
+                    bottom: 38.69%;
+                    width: calc(100% - 0% - 31.86%);
+                    height: calc(100% - 48.18% - 38.69%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+                .photo-gallery {
+                    position: absolute;
+                    top: 86.86%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 86.86% - 0%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+                .blog-post {
+                    position: absolute;
+                    top: 67.88%;
+                    left: 0%;
+                    right: 23.01%;
+                    bottom: 19.71%;
+                    width: calc(100% - 0% - 23.01%);
+                    height: calc(100% - 67.88% - 19.71%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+            }
+            .footer-get-touch {
+                position: absolute;
+                top: 0%;
+                left: 17.8%;
+                right: 70.52%;
+                bottom: 49.9%;
+                width: calc(100% - 17.8% - 70.52%);
+                height: calc(100% - 0% - 49.9%);
+                .get-in-touch {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 6.8%;
+                    bottom: 78.57%;
+                    width: calc(100% - 0% - 6.8%);
+                    height: calc(100% - 0% - 78.57%);
+                    color: #FFFFFF;
+                    font-family: "Playfair Display";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 700;
+                }
+                .contact-us {
+                    position: absolute;
+                    top: 47.62%;
+                    left: 0%;
+                    right: 10.68%;
+                    bottom: 32.14%;
+                    width: calc(100% - 0% - 10.68%);
+                    height: calc(100% - 47.62% - 32.14%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+                .our-services {
+                    position: absolute;
+                    top: 78.57%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 78.57% - 0%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+            }
+            .footer- {
+                position: absolute;
+                top: 0.6%;
+                left: 34.81%;
+                right: 44.27%;
+                bottom: 55.09%;
+                width: calc(100% - 34.81% - 44.27%);
+                height: calc(100% - 0.6% - 55.09%);
+                .near-baldia-mirpurkhas {
+                    position: absolute;
+                    top: 52.5%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 52.5% - 0%);
+                    color: #AFAFAF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 400;
+                    display: flex;
+                    align-items: center;
+                }
+                .address {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 25.2%;
+                    bottom: 77.12%;
+                    width: calc(100% - 0% - 25.2%);
+                    height: calc(100% - 0% - 77.12%);
+                    color: #FFFFFF;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 700;
+                    display: flex;
+                    align-items: center;
+                }
+            }
+            .footer-news {
+                position: absolute;
+                top: 0px;
+                left: 537px;
+                width: 345px;
+                height: 167.65px;
+                .subcrible {
+                    position: absolute;
+                    top: 0px;
+                    left: 0px;
+                    width: 345px;
+                    height: 87.59px;
+                    .group-2541 {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 71.01%;
+                        bottom: 79.85%;
+                        width: calc(100% - 0% - 71.01%);
+                        height: calc(100% - 0% - 79.85%);
+                        .newsletter {
+                            position: absolute;
+                            top: 0%;
+                            left: 0%;
+                            right: 0%;
+                            bottom: 0%;
+                            width: calc(100% - 0% - 0%);
+                            height: calc(100% - 0% - 0%);
+                            color: #FFFFFF;
+                            font-family: "Playfair Display";
+                            font-size: 16px;
+                            line-height: 24px;
+                            font-weight: 700;
+                        }
+                    }
+                    .group-2863 {
+                        position: absolute;
+                        top: 26px;
+                        left: 0px;
+                        width: 345px;
+                        height: 61.59px;
+                        .rectangle-2788 {
+                            position: absolute;
+                            top: 9.27%;
+                            left: 0%;
+                            right: 39.57%;
+                            bottom: 33.43%;
+                            width: calc(100% - 0% - 39.57%);
+                            height: calc(100% - 9.27% - 33.43%);
+                            background: #FFFFFF;
+                        }
+                        .enter-your-email {
+                            position: absolute;
+                            top: 27.6%;
+                            left: 3.48%;
+                            right: 55.36%;
+                            bottom: 51.29%;
+                            width: calc(100% - 3.48% - 55.36%);
+                            height: calc(100% - 27.6% - 51.29%);
+                            color: #555555;
+                            font-family: "Montserrat";
+                            font-size: 14px;
+                            line-height: 18px;
+                            font-weight: 400;
+                        }
+                        .frame-2540 {
+                            position: absolute;
+                            top: 0px;
+                            left: 219px;
+                            width: 126px;
+                            height: 48px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            column-gap: 10px;
+                            row-gap: 0px;
+                            padding: 12px 24px 12px 24px;
+                            background: #FF720C;
+                            .subscribe {
+                                flex-shrink: 0;
+                                width: 78px;
+                                height: 24px;
+                                color: #FFFFFF;
+                                white-space: nowrap;
+                                font-family: "Montserrat";
+                                font-size: 16px;
+                                line-height: 24px;
+                                font-weight: 500;
+                            }
+                        }
+                        .your-email-is-safe-with-us-we-dont-spam {
+                            position: absolute;
+                            top: 76.12%;
+                            left: 0%;
+                            right: 38.04%;
+                            bottom: 0%;
+                            width: calc(100% - 0% - 38.04%);
+                            height: calc(100% - 76.12% - 0%);
+                            color: #CCCCCC;
+                            font-family: "Montserrat";
+                            font-size: 14px;
+                            line-height: 20px;
+                            font-weight: 400;
+                        }
+                    }
+                }
+                .socialmedia {
+                    position: absolute;
+                    top: 70.38%;
+                    left: 0%;
+                    right: 60%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 60%);
+                    height: calc(100% - 70.38% - 0%);
+                    .follow-me {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 7.97%;
+                        bottom: 65.76%;
+                        width: calc(100% - 0% - 7.97%);
+                        height: calc(100% - 0% - 65.76%);
+                        color: #FFFFFF;
+                        font-family: "Playfair Display";
+                        font-size: 16px;
+                        line-height: 24px;
+                        font-weight: 700;
+                    }
+                    .group-3251 {
+                        position: absolute;
+                        top: 52.37%;
+                        left: 0.72%;
+                        right: 0%;
+                        bottom: -0.7%;
+                    }
+                }
+            }
+        }
+        .copyright-2024 {
+            position: absolute;
+            top: 89.84%;
+            left: 40.68%;
+            right: 40.63%;
+            bottom: 6.25%;
+            width: calc(100% - 40.68% - 40.63%);
+            height: calc(100% - 89.84% - 6.25%);
+            color: #888888;
+            font-family: "Nunito";
+            font-size: 14px;
+            line-height: 20px;
+            font-weight: 400;
+            text-align: center;
+        }
+        .line-183 {
+            position: absolute;
+            top: 83.59%;
+            left: 16.25%;
+            right: 12.14%;
+            bottom: 16.41%;
+            width: calc(100% - 16.25% - 12.14%);
+            height: calc(100% - 83.59% - 16.41%);
+            border: 1px solid #454545;
+        }
+        .logofooter {
+            position: absolute;
+            top: 41px;
+            left: calc(100% - 1440px + 608px);
+            width: 224px;
+            height: 40px;
+            .hamdard {
+                position: absolute;
+                top: 0%;
+                left: 19.2%;
+                right: 0%;
+                bottom: 12.5%;
+                width: calc(100% - 19.2% - 0%);
+                height: calc(100% - 0% - 12.5%);
+                color: #FF720C;
+                font-family: "MontserratRoman-SemiBold";
+                font-size: 36px;
+                line-height: 42.12px;
+            }
+            .global-charity {
+                position: absolute;
+                top: 10%;
+                left: -0.89%;
+                right: 83.93%;
+                bottom: -5%;
+            }
+        }
+    }
+    .landingpageppics {
+        position: absolute;
+        top: 23px;
+        left: -62px;
+        width: 1564px;
+        height: 611px;
+        .mainpicworlddotted {
+            position: absolute;
+            top: 9.49%;
+            left: 3.77%;
+            right: 4.16%;
+            bottom: 7.36%;
+            width: calc(100% - 3.77% - 4.16%);
+            height: calc(100% - 9.49% - 7.36%);
+            background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/c0b2a0d16b8a4be7949c35a0243d4719.png);
+            object-fit: cover;
+            background-repeat: no-repeat;
+            background-size: 1440px 807.75px;
+            background-position: 0px -39.88px;
+        }
+        .pictures {
+            position: absolute;
+            top: -4.91%;
+            left: -1.92%;
+            right: -1.92%;
+            bottom: -4.91%;
+        }
+    }
+    .navbarshape {
+        position: absolute;
+        top: -53px;
+        left: -60px;
+        width: 1560px;
+        height: 200px;
+    }
+    .headine {
+        position: absolute;
+        top: 254px;
+        left: 150px;
+        width: 422px;
+        height: 105px;
+        .small-changes-make-a {
+            position: absolute;
+            top: 0%;
+            left: 0.95%;
+            right: 10.9%;
+            bottom: 59.05%;
+            width: calc(100% - 0.95% - 10.9%);
+            height: calc(100% - 0% - 59.05%);
+            color: #000000;
+            white-space: nowrap;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 36px;
+            line-height: 42.12px;
+        }
+        .big-impact {
+            position: absolute;
+            top: 30.48%;
+            left: 0%;
+            right: 29.38%;
+            bottom: 1.9%;
+            width: calc(100% - 0% - 29.38%);
+            height: calc(100% - 30.48% - 1.9%);
+            color: #E4663A;
+            white-space: nowrap;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 60px;
+            line-height: 70.2px;
+        }
+    }
+    .toplogo {
+        position: absolute;
+        top: 0px;
+        left: -3px;
+        width: 255px;
+        height: 80px;
+        .logobackorange {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            background: #E4663A;
+        }
+        .logo {
+            position: absolute;
+            top: 21.25%;
+            left: 7.84%;
+            right: 4.31%;
+            bottom: 28.75%;
+            width: calc(100% - 7.84% - 4.31%);
+            height: calc(100% - 21.25% - 28.75%);
+            .logo-1 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                .hamdard-1 {
+                    position: absolute;
+                    top: 0%;
+                    left: 19.2%;
+                    right: 0%;
+                    bottom: 12.5%;
+                    width: calc(100% - 19.2% - 0%);
+                    height: calc(100% - 0% - 12.5%);
+                    color: #FFFFFF;
+                    font-family: "MontserratRoman-SemiBold";
+                    font-size: 36px;
+                    line-height: 42.12px;
+                }
+                .global-charity-1 {
+                    position: absolute;
+                    top: 10%;
+                    left: -0.89%;
+                    right: 83.93%;
+                    bottom: -5%;
+                }
+            }
+        }
+    }
+    .loginbutton {
+        position: absolute;
+        top: 16px;
+        left: 1012px;
+        width: 75px;
+        height: 48px;
+        .loginbuttonshape {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            border-radius: 24px;
+            background: #E4663A;
+        }
+        .login {
+            position: absolute;
+            top: 29.17%;
+            left: 22.67%;
+            right: 28%;
+            bottom: 35.42%;
+            width: calc(100% - 22.67% - 28%);
+            height: calc(100% - 29.17% - 35.42%);
+            color: #FFFFFF;
+            white-space: nowrap;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 14px;
+            line-height: 16.38px;
+        }
+    }
+    .languagebutton {
+        position: absolute;
+        top: 32px;
+        left: 936px;
+        width: 33px;
+        height: 17px;
+        .vector-14 {
+            position: absolute;
+            top: 35.29%;
+            left: 69.7%;
+            right: 0%;
+            bottom: 29.41%;
+        }
+        .en {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 42.42%;
+            bottom: 0%;
+            width: calc(100% - 0% - 42.42%);
+            height: calc(100% - 0% - 0%);
+            color: #000000;
+            white-space: nowrap;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 14px;
+            line-height: 16.38px;
+        }
+    }
+    .joinbutton {
+        position: absolute;
+        top: 16px;
+        left: 1107px;
+        width: 170px;
+        height: 48px;
+        .joinbuttonshape {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            border-radius: 50px;
+            border: 3px solid #E4663A;
+        }
+        .join-as-donor {
+            position: absolute;
+            top: 29.17%;
+            left: 20.59%;
+            right: 28.24%;
+            bottom: 35.42%;
+            width: calc(100% - 20.59% - 28.24%);
+            height: calc(100% - 29.17% - 35.42%);
+            color: #E4663A;
+            white-space: nowrap;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 14px;
+            line-height: 16.38px;
+        }
+    }
+    .denotebutton {
+        position: absolute;
+        top: 366px;
+        left: 155px;
+        width: 265px;
+        height: 48px;
+        .buttonframe {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            border-radius: 50px;
+            background: #E4663A;
+        }
+        .donate-now {
+            position: absolute;
+            top: 25%;
+            left: 21.89%;
+            right: 33.96%;
+            bottom: 25%;
+            width: calc(100% - 21.89% - 33.96%);
+            height: calc(100% - 25% - 25%);
+            color: #FFFFFF;
+            white-space: nowrap;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 20px;
+            line-height: 23.4px;
+        }
+    }
+    .projectcards {
+        position: absolute;
+        top: 680px;
+        left: 157px;
+        width: 1120px;
+        height: 312px;
+        .frames {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            box-shadow: 0px 3px 10px 0px rgba(75, 75, 75, 0.22), inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            .rectangle-2 {
+                position: absolute;
+                top: 0%;
+                left: 33.93%;
+                right: 33.93%;
+                bottom: 0%;
+                width: calc(100% - 33.93% - 33.93%);
+                height: calc(100% - 0% - 0%);
+                border-radius: 20px;
+                background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+            }
+            .rectangle-3 {
+                position: absolute;
+                top: 0%;
+                left: 67.86%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 67.86% - 0%);
+                height: calc(100% - 0% - 0%);
+                border-radius: 20px;
+                background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+            }
+            .rectangle-1 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 67.86%;
+                bottom: 0%;
+                width: calc(100% - 0% - 67.86%);
+                height: calc(100% - 0% - 0%);
+                border-radius: 20px;
+                background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+            }
+        }
+        .allcards {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            .circleorange {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                .mask-group {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 67.86%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 67.86%);
+                    height: calc(100% - 0% - 0%);
+                    .edge {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 0% - 0%);
+                        border-radius: 20px;
+                        background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%);
+                    }
+                    .ellipse-5 {
+                        position: absolute;
+                        top: -20.83%;
+                        left: 45.28%;
+                        right: -20%;
+                        bottom: 35.26%;
+                    }
+                }
+                .mask-group-1 {
+                    position: absolute;
+                    top: 0%;
+                    left: 33.93%;
+                    right: 33.93%;
+                    bottom: 0%;
+                    width: calc(100% - 33.93% - 33.93%);
+                    height: calc(100% - 0% - 0%);
+                    .edge-1 {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 0% - 0%);
+                        border-radius: 20px;
+                        background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%);
+                    }
+                    .ellipse-6 {
+                        position: absolute;
+                        top: -20.83%;
+                        left: 45.28%;
+                        right: -20%;
+                        bottom: 35.26%;
+                    }
+                }
+                .mask-group-2 {
+                    position: absolute;
+                    top: 0%;
+                    left: 67.86%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 67.86% - 0%);
+                    height: calc(100% - 0% - 0%);
+                    .edge-2 {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 0% - 0%);
+                        border-radius: 20px;
+                        background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%);
+                    }
+                    .ellipse-7 {
+                        position: absolute;
+                        top: -20.83%;
+                        left: 45.28%;
+                        right: -20%;
+                        bottom: 35.26%;
+                    }
+                }
+            }
+            .cardone {
+                position: absolute;
+                top: 0%;
+                left: 1.52%;
+                right: 67.86%;
+                bottom: 12.18%;
+                width: calc(100% - 1.52% - 67.86%);
+                height: calc(100% - 0% - 12.18%);
+                .circlebehindhome {
+                    position: absolute;
+                    top: 0%;
+                    left: 65.01%;
+                    right: 0%;
+                    bottom: 56.2%;
+                }
+                .text-in-section-1 {
+                    position: absolute;
+                    top: 16.42%;
+                    left: 0%;
+                    right: 7.87%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 7.87%);
+                    height: calc(100% - 16.42% - 0%);
+                    .food--homeless-charity {
+                        position: absolute;
+                        top: 0%;
+                        left: 2.53%;
+                        right: 33.86%;
+                        bottom: 75.55%;
+                        width: calc(100% - 2.53% - 33.86%);
+                        height: calc(100% - 0% - 75.55%);
+                        color: #000000;
+                        white-space: nowrap;
+                        font-family: "Playfair Display";
+                        font-size: 25px;
+                        line-height: 28px;
+                        font-weight: 700;
+                    }
+                    .join-your-hand-with-us-for-a-better-life-lets-do-the-right-thing-now {
+                        position: absolute;
+                        top: 84.28%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 84.28% - 0%);
+                        color: #000000;
+                        font-family: "MontserratRoman-Bold";
+                        font-size: 12px;
+                        line-height: 18px;
+                        >div {
+                            width: 100%;
+                        }
+                    }
+                    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam {
+                        position: absolute;
+                        top: 46.72%;
+                        left: 0%;
+                        right: 5.38%;
+                        bottom: 21.83%;
+                        width: calc(100% - 0% - 5.38%);
+                        height: calc(100% - 46.72% - 21.83%);
+                        color: #000000;
+                        font-family: "Montserrat";
+                        font-size: 12px;
+                        line-height: 18px;
+                        font-weight: 500;
+                    }
+                }
+                .home-solid {
+                    position: absolute;
+                    top: 11.31%;
+                    left: 72.89%;
+                    right: 7.87%;
+                    bottom: 67.15%;
+                }
+            }
+            .cardtwo {
+                position: absolute;
+                top: 0%;
+                left: 35.89%;
+                right: 33.93%;
+                bottom: 13.46%;
+                width: calc(100% - 35.89% - 33.93%);
+                height: calc(100% - 0% - 13.46%);
+                .ellipse-367 {
+                    position: absolute;
+                    top: 0%;
+                    left: 64.5%;
+                    right: 0%;
+                    bottom: 55.56%;
+                }
+                .text-in-section-2 {
+                    position: absolute;
+                    top: 15.19%;
+                    left: 0%;
+                    right: 6.51%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 6.51%);
+                    height: calc(100% - 15.19% - 0%);
+                    .education--healthy-food {
+                        position: absolute;
+                        top: 0%;
+                        left: 2.53%;
+                        right: 50%;
+                        bottom: 75.55%;
+                        width: calc(100% - 2.53% - 50%);
+                        height: calc(100% - 0% - 75.55%);
+                        color: #000000;
+                        white-space: nowrap;
+                        font-family: "Playfair Display";
+                        font-size: 25px;
+                        line-height: 28px;
+                        font-weight: 700;
+                    }
+                    .join-your-hand-with-us-for-a-better-life-lets-do-the-right-thing-now-1 {
+                        position: absolute;
+                        top: 84.28%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 84.28% - 0%);
+                        color: #000000;
+                        font-family: "MontserratRoman-Bold";
+                        font-size: 12px;
+                        line-height: 18px;
+                        >div {
+                            width: 100%;
+                        }
+                    }
+                    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-1 {
+                        position: absolute;
+                        top: 48.47%;
+                        left: 0%;
+                        right: 5.38%;
+                        bottom: 20.09%;
+                        width: calc(100% - 0% - 5.38%);
+                        height: calc(100% - 48.47% - 20.09%);
+                        color: #000000;
+                        font-family: "Montserrat";
+                        font-size: 12px;
+                        line-height: 18px;
+                        font-weight: 500;
+                    }
+                }
+                .hand-holding-usd-solid {
+                    position: absolute;
+                    top: 11.48%;
+                    left: 72.49%;
+                    right: 7.99%;
+                    bottom: 66.67%;
+                }
+            }
+            .cardthree {
+                position: absolute;
+                top: 0%;
+                left: 70.27%;
+                right: 0%;
+                bottom: 14.74%;
+                width: calc(100% - 70.27% - 0%);
+                height: calc(100% - 0% - 14.74%);
+                .text-in-section-3 {
+                    position: absolute;
+                    top: 13.91%;
+                    left: 0%;
+                    right: 5.11%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 5.11%);
+                    height: calc(100% - 13.91% - 0%);
+                    .bring-people-together {
+                        position: absolute;
+                        top: 0%;
+                        left: 2.53%;
+                        right: 51.9%;
+                        bottom: 75.55%;
+                        width: calc(100% - 2.53% - 51.9%);
+                        height: calc(100% - 0% - 75.55%);
+                        color: #000000;
+                        white-space: nowrap;
+                        font-family: "Playfair Display";
+                        font-size: 25px;
+                        line-height: 28px;
+                        font-weight: 700;
+                    }
+                    .join-your-hand-with-us-for-a-better-life-lets-do-the-right-thing-now-2 {
+                        position: absolute;
+                        top: 84.28%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 84.28% - 0%);
+                        color: #000000;
+                        font-family: "MontserratRoman-Bold";
+                        font-size: 12px;
+                        line-height: 18px;
+                        >div {
+                            width: 100%;
+                        }
+                    }
+                    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-2 {
+                        position: absolute;
+                        top: 48.03%;
+                        left: 0%;
+                        right: 5.38%;
+                        bottom: 20.52%;
+                        width: calc(100% - 0% - 5.38%);
+                        height: calc(100% - 48.03% - 20.52%);
+                        color: #000000;
+                        font-family: "Montserrat";
+                        font-size: 12px;
+                        line-height: 18px;
+                        font-weight: 500;
+                    }
+                }
+                .ellipse-369 {
+                    position: absolute;
+                    top: 0%;
+                    left: 63.96%;
+                    right: 0%;
+                    bottom: 54.89%;
+                }
+                .handshake-regular {
+                    position: absolute;
+                    top: 12.78%;
+                    left: 72.07%;
+                    right: 8.11%;
+                    bottom: 67.29%;
+                }
+            }
+        }
+    }
+    .line-ourproject {
+        position: absolute;
+        top: 626px;
+        left: 157px;
+        width: 1120px;
+        height: 32.5px;
+        .our-projects {
+            position: absolute;
+            top: 0%;
+            left: 45.45%;
+            right: 45.36%;
+            bottom: 0%;
+            width: calc(100% - 45.45% - 45.36%);
+            height: calc(100% - 0% - 0%);
+            color: #000000;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 16px;
+            line-height: 18.72px;
+        }
+        .div-rightproject {
+            position: absolute;
+            top: 18.46%;
+            left: 57.59%;
+            right: 0%;
+            bottom: 56.92%;
+            width: calc(100% - 57.59% - 0%);
+            height: calc(100% - 18.46% - 56.92%);
+            border-radius: 8px;
+            background: #D9D9D9;
+        }
+        .div-leftproject {
+            position: absolute;
+            top: 18.46%;
+            left: 0%;
+            right: 57.59%;
+            bottom: 56.92%;
+            width: calc(100% - 0% - 57.59%);
+            height: calc(100% - 18.46% - 56.92%);
+            border-radius: 8px;
+            background: #D9D9D9;
+        }
+    }
+    .line-latestcause {
+        position: absolute;
+        top: 1491px;
+        left: 166px;
+        width: 1111px;
+        height: 33px;
+        .latest-cause {
+            position: absolute;
+            top: 0%;
+            left: 45.27%;
+            right: 44.46%;
+            bottom: 0%;
+            width: calc(100% - 45.27% - 44.46%);
+            height: calc(100% - 0% - 0%);
+            color: #000000;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 16px;
+            line-height: 18.72px;
+        }
+        .div-rightlatest {
+            position: absolute;
+            top: 24.24%;
+            left: 57.25%;
+            right: 0%;
+            bottom: 51.52%;
+            width: calc(100% - 57.25% - 0%);
+            height: calc(100% - 24.24% - 51.52%);
+            border-radius: 8px;
+            background: #D9D9D9;
+        }
+        .div-leftlatest {
+            position: absolute;
+            top: 24.24%;
+            left: 0%;
+            right: 57.25%;
+            bottom: 51.52%;
+            width: calc(100% - 0% - 57.25%);
+            height: calc(100% - 24.24% - 51.52%);
+            border-radius: 8px;
+            background: #D9D9D9;
+        }
+    }
+    .backgroundworldpic {
+        position: absolute;
+        top: 935px;
+        left: -171px;
+        width: 1855.56px;
+        height: 1124.11px;
+        .world-2-3 {
+            position: absolute;
+            top: 100%;
+            left: 74.94%;
+            right: -0.88%;
+            bottom: -43.93%;
+            width: calc(100% - 74.94% - -0.88%);
+            height: calc(100% - 100% - -43.93%);
+            transform-origin: 0 0;
+            transform: rotate(-109.7deg);
+            object-fit: cover;
+        }
+        .world-2-5 {
+            position: absolute;
+            top: 894px;
+            left: 260px;
+            width: 756.58px;
+            height: 773.76px;
+            transform-origin: 0 0;
+            transform: rotate(40.37deg);
+            object-fit: cover;
+        }
+        .world-2-4 {
+            position: absolute;
+            top: 0%;
+            left: 11.07%;
+            right: 68.66%;
+            bottom: 66.55%;
+            width: calc(100% - 11.07% - 68.66%);
+            height: calc(100% - 0% - 66.55%);
+            transform-origin: 0 0;
+            transform: rotate(33.13deg);
+            object-fit: cover;
+        }
+    }
+    .feature-post {
+        position: absolute;
+        top: 1038px;
+        left: calc(100% - 1440px + 161px);
+        width: 1117.96px;
+        height: 426px;
+        .welcome-to-charity {
+            position: absolute;
+            top: 12.21%;
+            left: 0%;
+            right: 50.67%;
+            bottom: 1.61%;
+            width: calc(100% - 0% - 50.67%);
+            height: calc(100% - 12.21% - 1.61%);
+            .let-us-come-together-to-make-a-difference {
+                position: absolute;
+                top: 0%;
+                left: 0.91%;
+                right: 21.31%;
+                bottom: 72.49%;
+                width: calc(100% - 0.91% - 21.31%);
+                height: calc(100% - 0% - 72.49%);
+                color: #252A34;
+                font-family: "Playfair Display";
+                font-size: 30px;
+                line-height: 35px;
+                font-weight: 700;
+            }
+            .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo {
+                position: absolute;
+                top: 27.5%;
+                left: 0.85%;
+                right: 0%;
+                bottom: 51.02%;
+                width: calc(100% - 0.85% - 0%);
+                height: calc(100% - 27.5% - 51.02%);
+                color: #444444;
+                font-family: "Montserrat";
+                font-size: 12px;
+                line-height: 26px;
+                font-weight: 400;
+            }
+            .visionmission {
+                position: absolute;
+                top: 58.28%;
+                left: 0%;
+                right: 7.89%;
+                bottom: 0%;
+                width: calc(100% - 0% - 7.89%);
+                height: calc(100% - 58.28% - 0%);
+                .mission {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 53.84%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 53.84%);
+                    height: calc(100% - 0% - 0%);
+                    .missionshape {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 4.98%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 0% - 4.98%);
+                        background: #F7F3ED;
+                    }
+                    .missionheadling {
+                        position: absolute;
+                        top: 9.24%;
+                        left: 6.03%;
+                        right: 29.94%;
+                        bottom: 72.29%;
+                        width: calc(100% - 6.03% - 29.94%);
+                        height: calc(100% - 9.24% - 72.29%);
+                        .missionlogo {
+                            position: absolute;
+                            top: -0.38%;
+                            left: -0.1%;
+                            right: 82.78%;
+                            bottom: -2.1%;
+                        }
+                        .our-mission {
+                            position: absolute;
+                            top: 0%;
+                            left: 25.26%;
+                            right: 0.01%;
+                            bottom: 0%;
+                            width: calc(100% - 25.26% - 0.01%);
+                            height: calc(100% - 0% - 0%);
+                            color: #FF720C;
+                            font-family: "Nunito";
+                            font-size: 14px;
+                            line-height: 28px;
+                            font-weight: 700;
+                        }
+                    }
+                    .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam {
+                        position: absolute;
+                        top: 52.49%;
+                        left: 5.92%;
+                        right: 6.15%;
+                        bottom: 0%;
+                        width: calc(100% - 5.92% - 6.15%);
+                        height: calc(100% - 52.49% - 0%);
+                        color: #555555;
+                        font-family: "Montserrat";
+                        font-size: 8px;
+                        line-height: 12px;
+                        font-weight: 400;
+                    }
+                }
+                .vission {
+                    position: absolute;
+                    top: 0.03%;
+                    left: 54.72%;
+                    right: 0%;
+                    bottom: 4.66%;
+                    width: calc(100% - 54.72% - 0%);
+                    height: calc(100% - 0.03% - 4.66%);
+                    .visionshape {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 0% - 0%);
+                        height: calc(100% - 0% - 0%);
+                        background: #F7F3ED;
+                    }
+                    .visionheadling {
+                        position: absolute;
+                        top: 9.59%;
+                        left: 6.09%;
+                        right: 30.87%;
+                        bottom: 71.23%;
+                        width: calc(100% - 6.09% - 30.87%);
+                        height: calc(100% - 9.59% - 71.23%);
+                        .visionlogo {
+                            position: absolute;
+                            top: 0%;
+                            left: 0%;
+                            right: 77.93%;
+                            bottom: 3.57%;
+                        }
+                        .our-vission {
+                            position: absolute;
+                            top: 0%;
+                            left: 30.34%;
+                            right: 0%;
+                            bottom: 0%;
+                            width: calc(100% - 30.34% - 0%);
+                            height: calc(100% - 0% - 0%);
+                            color: #FF720C;
+                            white-space: nowrap;
+                            font-family: "Nunito";
+                            font-size: 20px;
+                            line-height: 28px;
+                            font-weight: 700;
+                        }
+                    }
+                    .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-1 {
+                        position: absolute;
+                        top: 53.42%;
+                        left: 6.09%;
+                        right: 44.35%;
+                        bottom: 21.92%;
+                        width: calc(100% - 6.09% - 44.35%);
+                        height: calc(100% - 53.42% - 21.92%);
+                        color: #555555;
+                        white-space: nowrap;
+                        font-family: "Montserrat";
+                        font-size: 8px;
+                        line-height: 12px;
+                        font-weight: 400;
+                    }
+                }
+            }
+        }
+        .welcome-to-charity-1 {
+            position: absolute;
+            top: 0.7%;
+            left: 0.45%;
+            right: 84.88%;
+            bottom: 93.66%;
+            width: calc(100% - 0.45% - 84.88%);
+            height: calc(100% - 0.7% - 93.66%);
+            color: #000000;
+            font-family: "MontserratRoman-SemiBold";
+            font-size: 16px;
+            line-height: 18.72px;
+        }
+        .feature-post-image {
+            position: absolute;
+            top: 0%;
+            left: 62.63%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 62.63% - 0%);
+            height: calc(100% - 0% - 0%);
+            .charityimage {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                .rectangle-2870 {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 0% - 0%);
+                    background: rgba(157, 85, 33, 0.2);
+                }
+                .rectangle-2880 {
+                    position: absolute;
+                    top: 3.87%;
+                    left: 3.94%;
+                    right: 4.22%;
+                    bottom: 3.87%;
+                    width: calc(100% - 3.94% - 4.22%);
+                    height: calc(100% - 3.87% - 3.87%);
+                    object-fit: cover;
+                }
+            }
+        }
+        .charity-divideline {
+            position: absolute;
+            top: 2.11%;
+            left: 17%;
+            right: 42.04%;
+            bottom: 95.54%;
+            width: calc(100% - 17% - 42.04%);
+            height: calc(100% - 2.11% - 95.54%);
+            border-radius: 8px;
+            background: #D9D9D9;
+        }
+    }
+    .blog-cards {
+        position: absolute;
+        top: 1551px;
+        left: 161px;
+        width: 1118.67px;
+        height: 606.38px;
+        .blog-card-2 {
+            position: absolute;
+            top: 13.36%;
+            left: 25.43%;
+            right: 50.91%;
+            bottom: 0%;
+            width: calc(100% - 25.43% - 50.91%);
+            height: calc(100% - 13.36% - 0%);
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            .blogframe2 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+                background: #F7F3ED;
+            }
+            .rectangle-2889 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 57.77%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 57.77%);
+                background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/771a6e56db98a04cf4b007134b1d1e39.png), rgba(217, 217, 217, 1);
+                object-fit: cover;
+                background-size: cover;
+            }
+            .button {
+                position: absolute;
+                top: 89.19%;
+                left: 6.54%;
+                right: 49.67%;
+                bottom: 4.05%;
+                width: calc(100% - 6.54% - 49.67%);
+                height: calc(100% - 89.19% - 4.05%);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                column-gap: 10px;
+                row-gap: 0px;
+                padding: 8px 16px 8px 16px;
+                border: 1px solid #FF720C;
+                .donate-now-1 {
+                    flex-shrink: 0;
+                    width: 99px;
+                    height: 24px;
+                    color: #FF720C;
+                    white-space: nowrap;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 500;
+                }
+            }
+            .blogcarddata2 {
+                position: absolute;
+                top: 46.06%;
+                left: 6.25%;
+                right: 4.81%;
+                bottom: 16.22%;
+                width: calc(100% - 6.25% - 4.81%);
+                height: calc(100% - 46.06% - 16.22%);
+                .homeless {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 63.47%;
+                    bottom: 88.39%;
+                    width: calc(100% - 0% - 63.47%);
+                    height: calc(100% - 0% - 88.39%);
+                    color: #FF720C;
+                    font-family: "MontserratRoman-SemiBold";
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+                .children-we-work-with {
+                    position: absolute;
+                    top: 18.5%;
+                    left: 0.33%;
+                    right: 20.31%;
+                    bottom: 68.96%;
+                    width: calc(100% - 0.33% - 20.31%);
+                    height: calc(100% - 18.5% - 68.96%);
+                    color: #252A34;
+                    font-family: "Playfair Display";
+                    font-size: 16px;
+                    line-height: 28px;
+                    font-weight: 700;
+                }
+                .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy {
+                    position: absolute;
+                    top: 38.2%;
+                    left: 0.33%;
+                    right: 2.31%;
+                    bottom: 42.09%;
+                    width: calc(100% - 0.33% - 2.31%);
+                    height: calc(100% - 38.2% - 42.09%);
+                    color: #555555;
+                    font-family: "Montserrat";
+                    font-size: 12px;
+                    line-height: 22px;
+                    font-weight: 400;
+                    >div {
+                        width: 100%;
+                    }
+                    >div span:nth-child(2) {
+                        font-weight: 700;
+                    }
+                }
+                .group-3224 {
+                    position: absolute;
+                    top: 72.25%;
+                    left: 0.18%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0.18% - 0%);
+                    height: calc(100% - 72.25% - 0%);
+                    .rectangle-2895 {
+                        position: absolute;
+                        top: 35.45%;
+                        left: 0.14%;
+                        right: 1.57%;
+                        bottom: 51.64%;
+                        width: calc(100% - 0.14% - 1.57%);
+                        height: calc(100% - 35.45% - 51.64%);
+                        background: #E7D4C7;
+                    }
+                    .rectangle-2896 {
+                        position: absolute;
+                        top: 35.45%;
+                        left: 0.14%;
+                        right: 15.56%;
+                        bottom: 51.64%;
+                        width: calc(100% - 0.14% - 15.56%);
+                        height: calc(100% - 35.45% - 51.64%);
+                        background: #FF720C;
+                    }
+                    .text-85 {
+                        position: absolute;
+                        top: 0%;
+                        left: 86.88%;
+                        right: 0%;
+                        bottom: 73.75%;
+                        width: calc(100% - 86.88% - 0%);
+                        height: calc(100% - 0% - 73.75%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .raised-8500 {
+                        position: absolute;
+                        top: 74.18%;
+                        left: 0.14%;
+                        right: 63.78%;
+                        bottom: 0%;
+                        width: calc(100% - 0.14% - 63.78%);
+                        height: calc(100% - 74.18% - 0%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .goal-1-0000 {
+                        position: absolute;
+                        top: 74.18%;
+                        left: 63.82%;
+                        right: 2.32%;
+                        bottom: 0%;
+                        width: calc(100% - 63.82% - 2.32%);
+                        height: calc(100% - 74.18% - 0%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .donatone {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 68.85%;
+                        bottom: 73.75%;
+                        width: calc(100% - 0% - 68.85%);
+                        height: calc(100% - 0% - 73.75%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                }
+            }
+            .pen-path {
+                position: absolute;
+                top: 15.42%;
+                left: 22.87%;
+                right: -0.33%;
+                bottom: 57.74%;
+            }
+        }
+        .blog-card-3 {
+            position: absolute;
+            top: 13.36%;
+            left: 50.86%;
+            right: 25.48%;
+            bottom: 0%;
+            width: calc(100% - 50.86% - 25.48%);
+            height: calc(100% - 13.36% - 0%);
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            .rectangle-2888 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+                background: #F7F3ED;
+            }
+            .rectangle-2890 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 57.77%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 57.77%);
+                background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/65f016ddef75af16c0f0f0b0dfc3ae6e.png), rgba(217, 217, 217, 1);
+                object-fit: cover;
+                background-repeat: no-repeat;
+                background-size: 357.82px 221.86px;
+                background-position: -74.1px 0px;
+            }
+            .button-1 {
+                position: absolute;
+                top: 89.19%;
+                left: 6.54%;
+                right: 49.67%;
+                bottom: 4.05%;
+                width: calc(100% - 6.54% - 49.67%);
+                height: calc(100% - 89.19% - 4.05%);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                column-gap: 10px;
+                row-gap: 0px;
+                padding: 8px 16px 8px 16px;
+                border: 1px solid #FF720C;
+                .donate-now-2 {
+                    flex-shrink: 0;
+                    width: 99px;
+                    height: 24px;
+                    color: #FF720C;
+                    white-space: nowrap;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 500;
+                }
+            }
+            .blogcarddata3 {
+                position: absolute;
+                top: 46.08%;
+                left: 6.37%;
+                right: 4.81%;
+                bottom: 16.22%;
+                width: calc(100% - 6.37% - 4.81%);
+                height: calc(100% - 46.08% - 16.22%);
+                .education {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 60.44%;
+                    bottom: 88.39%;
+                    width: calc(100% - 0% - 60.44%);
+                    height: calc(100% - 0% - 88.39%);
+                    color: #FF720C;
+                    font-family: "MontserratRoman-SemiBold";
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+                .help-for-education {
+                    position: absolute;
+                    top: 18.47%;
+                    left: 0.19%;
+                    right: 20.34%;
+                    bottom: 68.99%;
+                    width: calc(100% - 0.19% - 20.34%);
+                    height: calc(100% - 18.47% - 68.99%);
+                    color: #252A34;
+                    font-family: "Playfair Display";
+                    font-size: 16px;
+                    line-height: 28px;
+                    font-weight: 700;
+                }
+                .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-1 {
+                    position: absolute;
+                    top: 38.18%;
+                    left: 0.19%;
+                    right: 2.31%;
+                    bottom: 42.11%;
+                    width: calc(100% - 0.19% - 2.31%);
+                    height: calc(100% - 38.18% - 42.11%);
+                    color: #555555;
+                    font-family: "Montserrat";
+                    font-size: 12px;
+                    line-height: 22px;
+                    font-weight: 400;
+                    >div {
+                        width: 100%;
+                    }
+                    >div span:nth-child(2) {
+                        font-weight: 700;
+                    }
+                }
+                .group-3225 {
+                    position: absolute;
+                    top: 72.24%;
+                    left: 0.05%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0.05% - 0%);
+                    height: calc(100% - 72.24% - 0%);
+                    .rectangle-2897 {
+                        position: absolute;
+                        top: 35.45%;
+                        left: 0.14%;
+                        right: 1.57%;
+                        bottom: 51.64%;
+                        width: calc(100% - 0.14% - 1.57%);
+                        height: calc(100% - 35.45% - 51.64%);
+                        background: #E7D4C7;
+                    }
+                    .rectangle-2898 {
+                        position: absolute;
+                        top: 35.45%;
+                        left: 0.14%;
+                        right: 15.56%;
+                        bottom: 51.64%;
+                        width: calc(100% - 0.14% - 15.56%);
+                        height: calc(100% - 35.45% - 51.64%);
+                        background: #FF720C;
+                    }
+                    .text-86 {
+                        position: absolute;
+                        top: 0%;
+                        left: 86.88%;
+                        right: 0%;
+                        bottom: 73.75%;
+                        width: calc(100% - 86.88% - 0%);
+                        height: calc(100% - 0% - 73.75%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .raised-8501 {
+                        position: absolute;
+                        top: 74.18%;
+                        left: 0.14%;
+                        right: 63.78%;
+                        bottom: 0%;
+                        width: calc(100% - 0.14% - 63.78%);
+                        height: calc(100% - 74.18% - 0%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .goal-1-1 {
+                        position: absolute;
+                        top: 74.18%;
+                        left: 63.82%;
+                        right: 2.32%;
+                        bottom: 0%;
+                        width: calc(100% - 63.82% - 2.32%);
+                        height: calc(100% - 74.18% - 0%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .donatone-1 {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 68.85%;
+                        bottom: 73.75%;
+                        width: calc(100% - 0% - 68.85%);
+                        height: calc(100% - 0% - 73.75%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                }
+            }
+            .pen-path-1 {
+                position: absolute;
+                top: 15.42%;
+                left: 22.67%;
+                right: -0.12%;
+                bottom: 57.74%;
+            }
+        }
+        .blog-card-4 {
+            position: absolute;
+            top: 13.03%;
+            left: 76.34%;
+            right: 0%;
+            bottom: 0.33%;
+            width: calc(100% - 76.34% - 0%);
+            height: calc(100% - 13.03% - 0.33%);
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            .blogframe4 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+                background: #F7F3ED;
+            }
+            .rectangle-2891 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 57.77%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 57.77%);
+                background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/3503e1f3e432ce7786a5d0eea969852a.png), rgba(217, 217, 217, 1);
+                object-fit: cover;
+                background-size: cover;
+            }
+            .button-2 {
+                position: absolute;
+                top: 89.19%;
+                left: 6.54%;
+                right: 49.67%;
+                bottom: 4.05%;
+                width: calc(100% - 6.54% - 49.67%);
+                height: calc(100% - 89.19% - 4.05%);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                column-gap: 10px;
+                row-gap: 0px;
+                padding: 8px 16px 8px 16px;
+                border: 1px solid #FF720C;
+                .donate-now-3 {
+                    flex-shrink: 0;
+                    width: 99px;
+                    height: 24px;
+                    color: #FF720C;
+                    white-space: nowrap;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 500;
+                }
+            }
+            .blogcarddata4 {
+                position: absolute;
+                top: 46.08%;
+                left: 6.37%;
+                right: 4.81%;
+                bottom: 16.22%;
+                width: calc(100% - 6.37% - 4.81%);
+                height: calc(100% - 46.08% - 16.22%);
+                .food {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 60.44%;
+                    bottom: 88.39%;
+                    width: calc(100% - 0% - 60.44%);
+                    height: calc(100% - 0% - 88.39%);
+                    color: #FF720C;
+                    font-family: "MontserratRoman-SemiBold";
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+                .help-for-food {
+                    position: absolute;
+                    top: 18.47%;
+                    left: 0.19%;
+                    right: 20.34%;
+                    bottom: 68.99%;
+                    width: calc(100% - 0.19% - 20.34%);
+                    height: calc(100% - 18.47% - 68.99%);
+                    color: #252A34;
+                    font-family: "Playfair Display";
+                    font-size: 16px;
+                    line-height: 28px;
+                    font-weight: 700;
+                }
+                .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-2 {
+                    position: absolute;
+                    top: 38.18%;
+                    left: 0.19%;
+                    right: 2.31%;
+                    bottom: 42.11%;
+                    width: calc(100% - 0.19% - 2.31%);
+                    height: calc(100% - 38.18% - 42.11%);
+                    color: #555555;
+                    font-family: "Montserrat";
+                    font-size: 12px;
+                    line-height: 22px;
+                    font-weight: 400;
+                    >div {
+                        width: 100%;
+                    }
+                    >div span:nth-child(2) {
+                        font-weight: 700;
+                    }
+                }
+                .group-3226 {
+                    position: absolute;
+                    top: 72.24%;
+                    left: 0.05%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0.05% - 0%);
+                    height: calc(100% - 72.24% - 0%);
+                    .rectangle-2899 {
+                        position: absolute;
+                        top: 35.45%;
+                        left: 0.14%;
+                        right: 1.57%;
+                        bottom: 51.64%;
+                        width: calc(100% - 0.14% - 1.57%);
+                        height: calc(100% - 35.45% - 51.64%);
+                        background: #E7D4C7;
+                    }
+                    .rectangle-2900 {
+                        position: absolute;
+                        top: 35.45%;
+                        left: 0.14%;
+                        right: 15.56%;
+                        bottom: 51.64%;
+                        width: calc(100% - 0.14% - 15.56%);
+                        height: calc(100% - 35.45% - 51.64%);
+                        background: #FF720C;
+                    }
+                    .text-87 {
+                        position: absolute;
+                        top: 0%;
+                        left: 86.88%;
+                        right: 0%;
+                        bottom: 73.75%;
+                        width: calc(100% - 86.88% - 0%);
+                        height: calc(100% - 0% - 73.75%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .raised-8502 {
+                        position: absolute;
+                        top: 74.18%;
+                        left: 0.14%;
+                        right: 63.78%;
+                        bottom: 0%;
+                        width: calc(100% - 0.14% - 63.78%);
+                        height: calc(100% - 74.18% - 0%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .goal-1-2 {
+                        position: absolute;
+                        top: 74.18%;
+                        left: 63.82%;
+                        right: 2.32%;
+                        bottom: 0%;
+                        width: calc(100% - 63.82% - 2.32%);
+                        height: calc(100% - 74.18% - 0%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .donatone-2 {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 68.85%;
+                        bottom: 73.75%;
+                        width: calc(100% - 0% - 68.85%);
+                        height: calc(100% - 0% - 73.75%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                }
+            }
+            .pen-path-2 {
+                position: absolute;
+                top: 15.42%;
+                left: 22.67%;
+                right: -0.12%;
+                bottom: 57.74%;
+            }
+        }
+        .blog-card-main {
+            position: absolute;
+            top: 13.36%;
+            left: 0%;
+            right: 76.34%;
+            bottom: 0.06%;
+            width: calc(100% - 0% - 76.34%);
+            height: calc(100% - 13.36% - 0.06%);
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+            .blogframe1 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+                background: #F7F3ED;
+            }
+            .rectangle-2887 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 59.81%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 59.81%);
+                background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/15efe0c0ab8c6794526601886a55926c.png), rgba(217, 217, 217, 1);
+                object-fit: cover;
+                background-size: cover;
+            }
+            .button-3 {
+                position: absolute;
+                top: 89.71%;
+                left: 6.54%;
+                right: 49.67%;
+                bottom: 3.86%;
+                width: calc(100% - 6.54% - 49.67%);
+                height: calc(100% - 89.71% - 3.86%);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                column-gap: 10px;
+                row-gap: 0px;
+                padding: 8px 16px 8px 16px;
+                background: #FF720C;
+                .donate-now-4 {
+                    flex-shrink: 0;
+                    width: 99px;
+                    height: 24px;
+                    color: #FFDCC4;
+                    white-space: nowrap;
+                    font-family: "Montserrat";
+                    font-size: 16px;
+                    line-height: 24px;
+                    font-weight: 500;
+                }
+            }
+            .blogcarddata1 {
+                position: absolute;
+                top: 44%;
+                left: 6.54%;
+                right: 5.4%;
+                bottom: 15.43%;
+                width: calc(100% - 6.54% - 5.4%);
+                height: calc(100% - 44% - 15.43%);
+                .medical {
+                    position: absolute;
+                    top: 0%;
+                    left: 0.02%;
+                    right: 72.3%;
+                    bottom: 89.68%;
+                    width: calc(100% - 0.02% - 72.3%);
+                    height: calc(100% - 0% - 89.68%);
+                    color: #FF720C;
+                    font-family: "MontserratRoman-SemiBold";
+                    font-size: 16px;
+                    line-height: 26px;
+                }
+                .donate-for-poor-peoples-treatment-and-medicine {
+                    position: absolute;
+                    top: 22.36%;
+                    left: 0.02%;
+                    right: 13.15%;
+                    bottom: 55.44%;
+                    width: calc(100% - 0.02% - 13.15%);
+                    height: calc(100% - 22.36% - 55.44%);
+                    color: #252A34;
+                    font-family: "Playfair Display";
+                    font-size: 14px;
+                    line-height: 15px;
+                    font-weight: 700;
+                }
+                .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-3 {
+                    position: absolute;
+                    top: 45.3%;
+                    left: 0%;
+                    right: 1.66%;
+                    bottom: 37.26%;
+                    width: calc(100% - 0% - 1.66%);
+                    height: calc(100% - 45.3% - 37.26%);
+                    color: #555555;
+                    font-family: "Montserrat";
+                    font-size: 12px;
+                    line-height: 22px;
+                    font-weight: 400;
+                    >div {
+                        width: 100%;
+                    }
+                    >div span:nth-child(2) {
+                        font-weight: 700;
+                    }
+                }
+                .group-3227 {
+                    position: absolute;
+                    top: 75.26%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 75.26% - 0%);
+                    .rectangle-2901 {
+                        position: absolute;
+                        top: 35.91%;
+                        left: 0%;
+                        right: 0.92%;
+                        bottom: 51.28%;
+                        width: calc(100% - 0% - 0.92%);
+                        height: calc(100% - 35.91% - 51.28%);
+                        background: #E7D4C7;
+                    }
+                    .rectangle-2902 {
+                        position: absolute;
+                        top: 35.91%;
+                        left: 0%;
+                        right: 36.92%;
+                        bottom: 51.28%;
+                        width: calc(100% - 0% - 36.92%);
+                        height: calc(100% - 35.91% - 51.28%);
+                        background: #FF720C;
+                    }
+                    .text-60 {
+                        position: absolute;
+                        top: 0%;
+                        left: 88.85%;
+                        right: 0%;
+                        bottom: 73.92%;
+                        width: calc(100% - 88.85% - 0%);
+                        height: calc(100% - 0% - 73.92%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 12px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .raised-600 {
+                        position: absolute;
+                        top: 74.36%;
+                        left: 0%;
+                        right: 66.61%;
+                        bottom: 0.02%;
+                        width: calc(100% - 0% - 66.61%);
+                        height: calc(100% - 74.36% - 0.02%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .goal-1-000 {
+                        position: absolute;
+                        top: 74.36%;
+                        left: 67.54%;
+                        right: 1.66%;
+                        bottom: 0.02%;
+                        width: calc(100% - 67.54% - 1.66%);
+                        height: calc(100% - 74.36% - 0.02%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 14px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                    .donatone-3 {
+                        position: absolute;
+                        top: 0.68%;
+                        left: 0%;
+                        right: 73.65%;
+                        bottom: 73.7%;
+                        width: calc(100% - 0% - 73.65%);
+                        height: calc(100% - 0.68% - 73.7%);
+                        color: #252A34;
+                        font-family: "Montserrat";
+                        font-size: 12px;
+                        line-height: 16px;
+                        font-weight: 400;
+                    }
+                }
+            }
+            .pen-path-3 {
+                position: absolute;
+                top: 14.67%;
+                left: 22.67%;
+                right: -0.12%;
+                bottom: 59.62%;
+            }
+        }
+        .find-the-popular-cause-and-donate-them {
+            position: absolute;
+            top: 0%;
+            left: 23.6%;
+            right: 23.57%;
+            bottom: 84.83%;
+            width: calc(100% - 23.6% - 23.57%);
+            height: calc(100% - 0% - 84.83%);
+            color: #252A34;
+            font-family: "Playfair Display";
+            font-size: 30px;
+            line-height: 35px;
+            font-weight: 700;
+        }
+    }
+}
