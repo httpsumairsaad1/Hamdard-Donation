@@ -1,0 +1,230 @@
+.account-type {
+  position: absolute;
+  top: 18px;
+  left: 38px;
+  width: 352px;
+  height: 288px;
+  box-shadow: 0px 20px 25px 0px rgba(76, 103, 100, 0.1);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  row-gap: 16px;
+  column-gap: 16px;
+  padding: 24px;
+  background: #FFFFFF;
+}
+.account-type .header {
+  flex-shrink: 0;
+  width: 304px;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  row-gap: 0px;
+  padding: 0px 0px 12px 0px;
+  border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: rgba(210, 210, 210, 0.25);
+}
+.account-type .header .credit-card {
+  flex-shrink: 0;
+  width: 88px;
+  height: 24px;
+  color: #878787;
+  white-space: nowrap;
+  font-family: "Inter";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.account-type .header .type {
+  flex-shrink: 0;
+  width: 123px;
+  height: 32px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  column-gap: 4px;
+  row-gap: 0px;
+}
+.account-type .header .type .frame-40714 {
+  flex-shrink: 0;
+  width: 71px;
+  height: 32px;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  column-gap: 8px;
+  row-gap: 0px;
+  padding: 8px 0px 8px 0px;
+}
+.account-type .header .type .frame-40714 .master-card {
+  flex-shrink: 0;
+  width: 71px;
+  height: 16px;
+  color: #666666;
+  white-space: nowrap;
+  font-family: "Inter";
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+  text-align: right;
+}
+.account-type .header .type .icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 32px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  column-gap: 8px;
+  row-gap: 0px;
+}
+.account-type .header .type .icon .mastercard {
+  flex-shrink: 0;
+  width: 48px;
+  height: 32px;
+  overflow: hidden;
+}
+.account-type .header .type .icon .mastercard .mastercard-logo-1 {
+  position: absolute;
+  top: 4px;
+  left: 3px;
+  width: 43px;
+  height: 24px;
+  object-fit: cover;
+}
+.account-type .content {
+  flex-shrink: 0;
+  width: 304px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  row-gap: 24px;
+  column-gap: 24px;
+}
+.account-type .content .account-details {
+  flex-shrink: 0;
+  width: 304px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  row-gap: 16px;
+  column-gap: 16px;
+}
+.account-type .content .account-details .account-number {
+  flex-shrink: 0;
+  width: 304px;
+  height: 52px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  row-gap: 4px;
+  column-gap: 4px;
+}
+.account-type .content .account-details .account-number .text-133-456-886-8 {
+  flex-shrink: 0;
+  width: 304px;
+  height: 28px;
+  color: #191919;
+  font-family: "Inter";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.account-type .content .account-details .account-number .account-number-1 {
+  flex-shrink: 0;
+  width: 128px;
+  height: 20px;
+  color: #9F9F9F;
+  font-family: "Inter";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.account-type .content .account-details .total-amount {
+  flex-shrink: 0;
+  width: 125px;
+  height: 52px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  row-gap: 4px;
+  column-gap: 4px;
+}
+.account-type .content .account-details .total-amount .text-25000 {
+  flex-shrink: 0;
+  width: 125px;
+  height: 28px;
+  color: #191919;
+  font-family: "Inter";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.account-type .content .account-details .total-amount .total-amount-1 {
+  flex-shrink: 0;
+  width: 125px;
+  height: 20px;
+  color: #9F9F9F;
+  font-family: "Inter";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.account-type .content .footer {
+  flex-shrink: 0;
+  width: 303px;
+  height: 36px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  row-gap: 0px;
+}
+.account-type .content .footer .remove {
+  flex-shrink: 0;
+  width: 116px;
+  height: 24px;
+  color: #FF720C;
+  font-family: "Inter";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.account-type .content .footer .button {
+  flex-shrink: 0;
+  width: 110px;
+  height: 36px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  column-gap: 8px;
+  row-gap: 0px;
+  padding: 8px 20px 8px 20px;
+  background: #FF720C;
+}
+.account-type .content .footer .button .details {
+  flex-shrink: 0;
+  width: 46px;
+  height: 20px;
+  color: #FFFFFF;
+  white-space: nowrap;
+  font-family: "Inter";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.account-type .content .footer .button .chevron-right {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+}
