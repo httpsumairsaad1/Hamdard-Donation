@@ -1,0 +1,230 @@
+.account-type {
+    position: absolute;
+    top: 18px;
+    left: 38px;
+    width: 352px;
+    height: 288px;
+    box-shadow: 0px 20px 25px 0px rgba(76, 103, 100, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    row-gap: 16px;
+    column-gap: 16px;
+    padding: 24px;
+    background: #FFFFFF;
+    .header {
+        flex-shrink: 0;
+        width: 304px;
+        height: 44px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        row-gap: 0px;
+        padding: 0px 0px 12px 0px;
+        border-width: 0px 0px 1px 0px;
+        border-style: solid;
+        border-color: rgba(210, 210, 210, 0.25);
+        .credit-card {
+            flex-shrink: 0;
+            width: 88px;
+            height: 24px;
+            color: #878787;
+            white-space: nowrap;
+            font-family: "Inter";
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: 700;
+        }
+        .type {
+            flex-shrink: 0;
+            width: 123px;
+            height: 32px;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            column-gap: 4px;
+            row-gap: 0px;
+            .frame-40714 {
+                flex-shrink: 0;
+                width: 71px;
+                height: 32px;
+                display: flex;
+                justify-content: start;
+                align-items: start;
+                column-gap: 8px;
+                row-gap: 0px;
+                padding: 8px 0px 8px 0px;
+                .master-card {
+                    flex-shrink: 0;
+                    width: 71px;
+                    height: 16px;
+                    color: #666666;
+                    white-space: nowrap;
+                    font-family: "Inter";
+                    font-size: 12px;
+                    line-height: 16px;
+                    font-weight: 500;
+                    text-align: right;
+                }
+            }
+            .icon {
+                flex-shrink: 0;
+                width: 48px;
+                height: 32px;
+                display: flex;
+                justify-content: start;
+                align-items: center;
+                column-gap: 8px;
+                row-gap: 0px;
+                .mastercard {
+                    flex-shrink: 0;
+                    width: 48px;
+                    height: 32px;
+                    overflow: hidden;
+                    .mastercard-logo-1 {
+                        position: absolute;
+                        top: 4px;
+                        left: 3px;
+                        width: 43px;
+                        height: 24px;
+                        object-fit: cover;
+                    }
+                }
+            }
+        }
+    }
+    .content {
+        flex-shrink: 0;
+        width: 304px;
+        height: 180px;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+        row-gap: 24px;
+        column-gap: 24px;
+        .account-details {
+            flex-shrink: 0;
+            width: 304px;
+            height: 120px;
+            display: flex;
+            flex-direction: column;
+            justify-content: start;
+            align-items: start;
+            row-gap: 16px;
+            column-gap: 16px;
+            .account-number {
+                flex-shrink: 0;
+                width: 304px;
+                height: 52px;
+                display: flex;
+                flex-direction: column;
+                justify-content: start;
+                align-items: start;
+                row-gap: 4px;
+                column-gap: 4px;
+                .text-133-456-886-8 {
+                    flex-shrink: 0;
+                    width: 304px;
+                    height: 28px;
+                    color: #191919;
+                    font-family: "Inter";
+                    font-size: 20px;
+                    line-height: 28px;
+                    font-weight: 600;
+                }
+                .account-number-1 {
+                    flex-shrink: 0;
+                    width: 128px;
+                    height: 20px;
+                    color: #9F9F9F;
+                    font-family: "Inter";
+                    font-size: 14px;
+                    line-height: 20px;
+                    font-weight: 400;
+                }
+            }
+            .total-amount {
+                flex-shrink: 0;
+                width: 125px;
+                height: 52px;
+                display: flex;
+                flex-direction: column;
+                justify-content: start;
+                align-items: start;
+                row-gap: 4px;
+                column-gap: 4px;
+                .text-25000 {
+                    flex-shrink: 0;
+                    width: 125px;
+                    height: 28px;
+                    color: #191919;
+                    font-family: "Inter";
+                    font-size: 20px;
+                    line-height: 28px;
+                    font-weight: 600;
+                }
+                .total-amount-1 {
+                    flex-shrink: 0;
+                    width: 125px;
+                    height: 20px;
+                    color: #9F9F9F;
+                    font-family: "Inter";
+                    font-size: 14px;
+                    line-height: 20px;
+                    font-weight: 400;
+                }
+            }
+        }
+        .footer {
+            flex-shrink: 0;
+            width: 303px;
+            height: 36px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            row-gap: 0px;
+            .remove {
+                flex-shrink: 0;
+                width: 116px;
+                height: 24px;
+                color: #FF720C;
+                font-family: "Inter";
+                font-size: 16px;
+                line-height: 24px;
+                font-weight: 400;
+            }
+            .button {
+                flex-shrink: 0;
+                width: 110px;
+                height: 36px;
+                border-radius: 4px;
+                display: flex;
+                justify-content: start;
+                align-items: center;
+                column-gap: 8px;
+                row-gap: 0px;
+                padding: 8px 20px 8px 20px;
+                background: #FF720C;
+                .details {
+                    flex-shrink: 0;
+                    width: 46px;
+                    height: 20px;
+                    color: #FFFFFF;
+                    white-space: nowrap;
+                    font-family: "Inter";
+                    font-size: 14px;
+                    line-height: 20px;
+                    font-weight: 500;
+                }
+                .chevron-right {
+                    flex-shrink: 0;
+                    width: 16px;
+                    height: 16px;
+                }
+            }
+        }
+    }
+}
