@@ -1,0 +1,47 @@
+.button {
+  width: 115px;
+  height: 36px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  column-gap: 8px;
+  row-gap: 0px;
+  padding: 8px 16px 8px 16px;
+  border: 1px solid #FF720C;
+}
+.button .details {
+  flex-shrink: 0;
+  width: 83px;
+  height: 20px;
+  color: #FF720C;
+  white-space: nowrap;
+  font-family: "Inter";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+}
+/* =======================================
+.button {
+    width: 115px;
+    height: 36px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    column-gap: 8px;
+    row-gap: 0px;
+    padding: 8px 16px 8px 16px;
+    border: 1px solid #FF720C;
+    .details {
+        flex-shrink: 0;
+        width: 83px;
+        height: 20px;
+        color: #FF720C;
+        white-space: nowrap;
+        font-family: "Inter";
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 500;
+    }
+} */
