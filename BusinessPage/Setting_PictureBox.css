@@ -1,0 +1,82 @@
+.picture {
+  position: absolute;
+  top: 18px;
+  left: 38px;
+  width: 309px;
+  height: 421px;
+}
+.picture .picturebox {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  bottom: 26.6%;
+  width: calc(100% - 0% - 0%);
+  height: calc(100% - 0% - 26.6%);
+  box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  background: #FFFFFF;
+}
+.picture .group--icon-upload {
+  position: absolute;
+  top: 27.08%;
+  left: 39.81%;
+  right: 39.48%;
+  bottom: 53.68%;
+}
+.picture .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris {
+  position: absolute;
+  top: 77.2%;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+  width: calc(100% - 0% - 0%);
+  height: calc(100% - 77.2% - 0%);
+  color: #000000;
+  font-family: "OxaniumRoman-Regular";
+  font-size: 12px;
+  line-height: 24px;
+  text-align: justify;
+}
+
+/* ============================================
+.picture {
+    position: absolute;
+    top: 18px;
+    left: 38px;
+    width: 309px;
+    height: 421px;
+    .picturebox {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        right: 0%;
+        bottom: 26.6%;
+        width: calc(100% - 0% - 0%);
+        height: calc(100% - 0% - 26.6%);
+        box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.1);
+        border-radius: 30px;
+        background: #FFFFFF;
+    }
+    .group--icon-upload {
+        position: absolute;
+        top: 27.08%;
+        left: 39.81%;
+        right: 39.48%;
+        bottom: 53.68%;
+    }
+    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris {
+        position: absolute;
+        top: 77.2%;
+        left: 0%;
+        right: 0%;
+        bottom: 0%;
+        width: calc(100% - 0% - 0%);
+        height: calc(100% - 77.2% - 0%);
+        color: #000000;
+        font-family: "OxaniumRoman-Regular";
+        font-size: 12px;
+        line-height: 24px;
+        text-align: justify;
+    }
+} */
