@@ -1,0 +1,71 @@
+.settingContainer{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.settingBox{
+    width: 95%;
+    height: 75vh;
+    box-shadow: 2px 2px 5px 3px rgba(0,0,0,0.2);
+    padding: 10px 20px;
+
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0px;
+}
+.head h3{
+    font-size: 24px;
+    cursor: pointer;
+}
+.selectedClass{
+    transition: 0.5s all ease-in-out;
+    border-bottom: 5px solid orangered;
+}
+
+.settings{
+    width: 100%;
+}
+.textField:first-child{
+    margin-top: 30px;
+}
+.textField{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:10px 0px;
+}
+.textField:last-child{
+    justify-content: flex-start;
+
+}
+.textField label{
+    width: 200px;
+    font-size: 16px;
+
+}
+.textField input{
+    width: 50%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.update{
+    margin-left: 100px;
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    color: white;
+
+}

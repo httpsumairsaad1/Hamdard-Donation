@@ -1,0 +1,91 @@
+.balanceContainer{
+    width: 100%;
+    /* height: 70vh; */
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 15px;
+    row-gap: 20px;
+    grid-template-rows: repeat(2,1fr);
+}
+.balanceContainer .card{
+    width: 370px;
+    height: 230px;
+    box-shadow: 1px 1px 2px 3px rgba(0,0,0,0.1);
+    padding: 7px;
+    overflow: hidden;
+}
+
+.cardHead{
+    display: flex;
+    justify-content: space-between;
+}
+.cardHead h3{
+    color: rgba(0,0,0,0.3);
+    font-size: 20px;
+}
+.cardHead div{
+    color: rgba(0,0,0,0.3);
+}
+.cardHead div  span:first-child{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: red;
+    
+}
+.cardHead div  span:nth-child(2){
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: orange;
+    margin-left: -10px;
+    
+}
+
+.cardBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.cardBody h1{
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.cardBody h4{
+    color: rgba(0,0,0,0.3);
+    font-size: 15px;
+}
+
+.cardFoot{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardFoot button:first-child{
+    background: transparent;
+    border: none;
+    outline: none;
+    color: orange;
+}
+
+.cardFoot button:nth-child(2){
+    background-color: orange;
+    color: white;
+    border: none;
+    width: 110px;
+    height: 40px;
+    border-radius: 3px;
+}
+
+
+@media (max-width:1080px){
+    .balanceContainer{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+    }
+}

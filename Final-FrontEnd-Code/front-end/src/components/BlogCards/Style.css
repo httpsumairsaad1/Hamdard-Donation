@@ -1,0 +1,863 @@
+.blog-cards {
+    position: absolute;
+    top: 1570px;
+    /* left: 150px; */
+    left: calc(100% - 1440px + 151px);
+    /* justify-content: center;
+    align-items: center;  */
+    width: 1118.67px;
+    height: 606.38px;
+  }
+  .blog-cards .blog-card-2 {
+    position: absolute;
+    top: 13.36%;
+    left: 25.43%;
+    right: 50.91%;
+    bottom: 0%;
+    width: calc(100% - 25.43% - 50.91%);
+    height: calc(100% - 13.36% - 0%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .blog-cards .blog-card-2 .blogframe2 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+    background: #F7F3ED;
+  }
+  .blog-cards .blog-card-2 .rectangle-2889 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 57.77%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 57.77%);
+    background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/771a6e56db98a04cf4b007134b1d1e39.png), #d9d9d9;
+    object-fit: cover;
+    background-size: cover;
+  }
+  .blog-cards .blog-card-2 .button {
+    position: absolute;
+    top: 89.19%;
+    left: 6.54%;
+    right: 49.67%;
+    bottom: 4.05%;
+    width: calc(100% - 6.54% - 49.67%);
+    height: calc(100% - 89.19% - 4.05%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 0px;
+    padding: 8px 16px 8px 16px;
+    border: 1px solid #FF720C;
+  }
+  .blog-cards .blog-card-2 .button .donate-now {
+    flex-shrink: 0;
+    width: 99px;
+    height: 24px;
+    color: #FF720C;
+    white-space: nowrap;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 {
+    position: absolute;
+    top: 46.06%;
+    left: 6.25%;
+    right: 4.81%;
+    bottom: 16.22%;
+    width: calc(100% - 6.25% - 4.81%);
+    height: calc(100% - 46.06% - 16.22%);
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .homeless {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 63.47%;
+    bottom: 88.39%;
+    width: calc(100% - 0% - 63.47%);
+    height: calc(100% - 0% - 88.39%);
+    color: #FF720C;
+    font-family: "Abhaya Libre";
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .children-we-work-with {
+    position: absolute;
+    top: 18.5%;
+    left: 0.33%;
+    right: 20.31%;
+    bottom: 68.96%;
+    width: calc(100% - 0.33% - 20.31%);
+    height: calc(100% - 18.5% - 68.96%);
+    color: #252A34;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy {
+    position: absolute;
+    top: 38.2%;
+    left: 0.33%;
+    right: 2.31%;
+    bottom: 42.09%;
+    width: calc(100% - 0.33% - 2.31%);
+    height: calc(100% - 38.2% - 42.09%);
+    color: #555555;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy > div {
+    width: 100%;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy > div span:nth-child(2) {
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 {
+    position: absolute;
+    top: 72.25%;
+    left: 0.18%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0.18% - 0%);
+    height: calc(100% - 72.25% - 0%);
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 .rectangle-2895 {
+    position: absolute;
+    top: 35.45%;
+    left: 0.14%;
+    right: 1.57%;
+    bottom: 51.64%;
+    width: calc(100% - 0.14% - 1.57%);
+    height: calc(100% - 35.45% - 51.64%);
+    background: #E7D4C7;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 .rectangle-2896 {
+    position: absolute;
+    top: 35.45%;
+    left: 0.14%;
+    right: 15.56%;
+    bottom: 51.64%;
+    width: calc(100% - 0.14% - 15.56%);
+    height: calc(100% - 35.45% - 51.64%);
+    background: #FF720C;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 .text-85 {
+    position: absolute;
+    top: 0%;
+    left: 86.88%;
+    right: 0%;
+    bottom: 73.75%;
+    width: calc(100% - 86.88% - 0%);
+    height: calc(100% - 0% - 73.75%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 .raised-8500 {
+    position: absolute;
+    top: 74.18%;
+    left: 0.14%;
+    right: 63.78%;
+    bottom: 0%;
+    width: calc(100% - 0.14% - 63.78%);
+    height: calc(100% - 74.18% - 0%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 .goal-1-0000 {
+    position: absolute;
+    top: 74.18%;
+    left: 63.82%;
+    right: 2.32%;
+    bottom: 0%;
+    width: calc(100% - 63.82% - 2.32%);
+    height: calc(100% - 74.18% - 0%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-2 .blogcarddata2 .group-3224 .donatone {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 68.85%;
+    bottom: 73.75%;
+    width: calc(100% - 0% - 68.85%);
+    height: calc(100% - 0% - 73.75%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-2 .pen-path {
+    position: absolute;
+    top: 15.42%;
+    left: 22.87%;
+    right: -0.33%;
+    bottom: 57.74%;
+  }
+  .blog-cards .blog-card-3 {
+    position: absolute;
+    top: 13.36%;
+    left: 50.86%;
+    right: 25.48%;
+    bottom: 0%;
+    width: calc(100% - 50.86% - 25.48%);
+    height: calc(100% - 13.36% - 0%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .blog-cards .blog-card-3 .rectangle-2888 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+    background: #F7F3ED;
+  }
+  .blog-cards .blog-card-3 .rectangle-2890 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 57.77%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 57.77%);
+    background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/65f016ddef75af16c0f0f0b0dfc3ae6e.png), #d9d9d9;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 357.82px 221.86px;
+    background-position: -74.1px 0px;
+  }
+  .blog-cards .blog-card-3 .button-1 {
+    position: absolute;
+    top: 89.19%;
+    left: 6.54%;
+    right: 49.67%;
+    bottom: 4.05%;
+    width: calc(100% - 6.54% - 49.67%);
+    height: calc(100% - 89.19% - 4.05%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 0px;
+    padding: 8px 16px 8px 16px;
+    border: 1px solid #FF720C;
+  }
+  .blog-cards .blog-card-3 .button-1 .donate-now-1 {
+    flex-shrink: 0;
+    width: 99px;
+    height: 24px;
+    color: #FF720C;
+    white-space: nowrap;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 {
+    position: absolute;
+    top: 46.08%;
+    left: 6.37%;
+    right: 4.81%;
+    bottom: 16.22%;
+    width: calc(100% - 6.37% - 4.81%);
+    height: calc(100% - 46.08% - 16.22%);
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .education {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 60.44%;
+    bottom: 88.39%;
+    width: calc(100% - 0% - 60.44%);
+    height: calc(100% - 0% - 88.39%);
+    color: #FF720C;
+    font-family: "Abhaya Libre";
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .help-for-education {
+    position: absolute;
+    top: 18.47%;
+    left: 0.19%;
+    right: 20.34%;
+    bottom: 68.99%;
+    width: calc(100% - 0.19% - 20.34%);
+    height: calc(100% - 18.47% - 68.99%);
+    color: #252A34;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-1 {
+    position: absolute;
+    top: 38.18%;
+    left: 0.19%;
+    right: 2.31%;
+    bottom: 42.11%;
+    width: calc(100% - 0.19% - 2.31%);
+    height: calc(100% - 38.18% - 42.11%);
+    color: #555555;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-1 > div {
+    width: 100%;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-1 > div span:nth-child(2) {
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 {
+    position: absolute;
+    top: 72.24%;
+    left: 0.05%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0.05% - 0%);
+    height: calc(100% - 72.24% - 0%);
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 .rectangle-2897 {
+    position: absolute;
+    top: 35.45%;
+    left: 0.14%;
+    right: 1.57%;
+    bottom: 51.64%;
+    width: calc(100% - 0.14% - 1.57%);
+    height: calc(100% - 35.45% - 51.64%);
+    background: #E7D4C7;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 .rectangle-2898 {
+    position: absolute;
+    top: 35.45%;
+    left: 0.14%;
+    right: 15.56%;
+    bottom: 51.64%;
+    width: calc(100% - 0.14% - 15.56%);
+    height: calc(100% - 35.45% - 51.64%);
+    background: #FF720C;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 .text-86 {
+    position: absolute;
+    top: 0%;
+    left: 86.88%;
+    right: 0%;
+    bottom: 73.75%;
+    width: calc(100% - 86.88% - 0%);
+    height: calc(100% - 0% - 73.75%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 .raised-8501 {
+    position: absolute;
+    top: 74.18%;
+    left: 0.14%;
+    right: 63.78%;
+    bottom: 0%;
+    width: calc(100% - 0.14% - 63.78%);
+    height: calc(100% - 74.18% - 0%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 .goal-1-1 {
+    position: absolute;
+    top: 74.18%;
+    left: 63.82%;
+    right: 2.32%;
+    bottom: 0%;
+    width: calc(100% - 63.82% - 2.32%);
+    height: calc(100% - 74.18% - 0%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-3 .blogcarddata3 .group-3225 .donatone-1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 68.85%;
+    bottom: 73.75%;
+    width: calc(100% - 0% - 68.85%);
+    height: calc(100% - 0% - 73.75%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-3 .pen-path-1 {
+    position: absolute;
+    top: 15.42%;
+    left: 22.67%;
+    right: -0.12%;
+    bottom: 57.74%;
+  }
+  .blog-cards .blog-card-4 {
+    position: absolute;
+    top: 13.03%;
+    left: 76.34%;
+    right: 0%;
+    bottom: 0.33%;
+    width: calc(100% - 76.34% - 0%);
+    height: calc(100% - 13.03% - 0.33%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .blog-cards .blog-card-4 .blogframe4 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+    background: #F7F3ED;
+  }
+  .blog-cards .blog-card-4 .rectangle-2891 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 57.77%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 57.77%);
+    background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/3503e1f3e432ce7786a5d0eea969852a.png), #d9d9d9;
+    object-fit: cover;
+    background-size: cover;
+  }
+  .blog-cards .blog-card-4 .button-2 {
+    position: absolute;
+    top: 89.19%;
+    left: 6.54%;
+    right: 49.67%;
+    bottom: 4.05%;
+    width: calc(100% - 6.54% - 49.67%);
+    height: calc(100% - 89.19% - 4.05%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 0px;
+    padding: 8px 16px 8px 16px;
+    border: 1px solid #FF720C;
+  }
+  .blog-cards .blog-card-4 .button-2 .donate-now-2 {
+    flex-shrink: 0;
+    width: 99px;
+    height: 24px;
+    color: #FF720C;
+    white-space: nowrap;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 {
+    position: absolute;
+    top: 46.08%;
+    left: 6.37%;
+    right: 4.81%;
+    bottom: 16.22%;
+    width: calc(100% - 6.37% - 4.81%);
+    height: calc(100% - 46.08% - 16.22%);
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .food {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 60.44%;
+    bottom: 88.39%;
+    width: calc(100% - 0% - 60.44%);
+    height: calc(100% - 0% - 88.39%);
+    color: #FF720C;
+    font-family: "Abhaya Libre";
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .help-for-food {
+    position: absolute;
+    top: 18.47%;
+    left: 0.19%;
+    right: 20.34%;
+    bottom: 68.99%;
+    width: calc(100% - 0.19% - 20.34%);
+    height: calc(100% - 18.47% - 68.99%);
+    color: #252A34;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-2 {
+    position: absolute;
+    top: 38.18%;
+    left: 0.19%;
+    right: 2.31%;
+    bottom: 42.11%;
+    width: calc(100% - 0.19% - 2.31%);
+    height: calc(100% - 38.18% - 42.11%);
+    color: #555555;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-2 > div {
+    width: 100%;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-2 > div span:nth-child(2) {
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 {
+    position: absolute;
+    top: 72.24%;
+    left: 0.05%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0.05% - 0%);
+    height: calc(100% - 72.24% - 0%);
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 .rectangle-2899 {
+    position: absolute;
+    top: 35.45%;
+    left: 0.14%;
+    right: 1.57%;
+    bottom: 51.64%;
+    width: calc(100% - 0.14% - 1.57%);
+    height: calc(100% - 35.45% - 51.64%);
+    background: #E7D4C7;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 .rectangle-2900 {
+    position: absolute;
+    top: 35.45%;
+    left: 0.14%;
+    right: 15.56%;
+    bottom: 51.64%;
+    width: calc(100% - 0.14% - 15.56%);
+    height: calc(100% - 35.45% - 51.64%);
+    background: #FF720C;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 .text-87 {
+    position: absolute;
+    top: 0%;
+    left: 86.88%;
+    right: 0%;
+    bottom: 73.75%;
+    width: calc(100% - 86.88% - 0%);
+    height: calc(100% - 0% - 73.75%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 .raised-8502 {
+    position: absolute;
+    top: 74.18%;
+    left: 0.14%;
+    right: 63.78%;
+    bottom: 0%;
+    width: calc(100% - 0.14% - 63.78%);
+    height: calc(100% - 74.18% - 0%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 .goal-1-2 {
+    position: absolute;
+    top: 74.18%;
+    left: 63.82%;
+    right: 2.32%;
+    bottom: 0%;
+    width: calc(100% - 63.82% - 2.32%);
+    height: calc(100% - 74.18% - 0%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-4 .blogcarddata4 .group-3226 .donatone-2 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 68.85%;
+    bottom: 73.75%;
+    width: calc(100% - 0% - 68.85%);
+    height: calc(100% - 0% - 73.75%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-4 .pen-path-2 {
+    position: absolute;
+    top: 15.42%;
+    left: 22.67%;
+    right: -0.12%;
+    bottom: 57.74%;
+  }
+  .blog-cards .blog-card-main {
+    position: absolute;
+    top: 13.36%;
+    left: 0%;
+    right: 76.34%;
+    bottom: 0.06%;
+    width: calc(100% - 0% - 76.34%);
+    height: calc(100% - 13.36% - 0.06%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  .blog-cards .blog-card-main .blogframe1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    box-shadow: 0px 10px 25px 0px rgba(37, 42, 52, 0.08);
+    background: #F7F3ED;
+  }
+  .blog-cards .blog-card-main .rectangle-2887 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 59.81%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 59.81%);
+    background: url(https://image-resource.creatie.ai/124019209528853/124019209528855/15efe0c0ab8c6794526601886a55926c.png), #d9d9d9;
+    object-fit: cover;
+    background-size: cover;
+  }
+  .blog-cards .blog-card-main .button-3 {
+    position: absolute;
+    top: 89.71%;
+    left: 6.54%;
+    right: 49.67%;
+    bottom: 3.86%;
+    width: calc(100% - 6.54% - 49.67%);
+    height: calc(100% - 89.71% - 3.86%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 0px;
+    padding: 8px 16px 8px 16px;
+    background: #FF720C;
+  }
+  .blog-cards .blog-card-main .button-3 .donate-now-3 {
+    flex-shrink: 0;
+    width: 99px;
+    height: 24px;
+    color: #FFDCC4;
+    white-space: nowrap;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 {
+    position: absolute;
+    top: 44%;
+    left: 6.54%;
+    right: 5.4%;
+    bottom: 15.43%;
+    width: calc(100% - 6.54% - 5.4%);
+    height: calc(100% - 44% - 15.43%);
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .medical {
+    position: absolute;
+    top: 0%;
+    left: 0.02%;
+    right: 72.3%;
+    bottom: 89.68%;
+    width: calc(100% - 0.02% - 72.3%);
+    height: calc(100% - 0% - 89.68%);
+    color: #FF720C;
+    font-family: "Abhaya Libre";
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .donate-for-poor-peoples-treatment-and-medicine {
+    position: absolute;
+    top: 22.36%;
+    left: 0.02%;
+    right: 13.15%;
+    bottom: 55.44%;
+    width: calc(100% - 0.02% - 13.15%);
+    height: calc(100% - 22.36% - 55.44%);
+    color: #252A34;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    line-height: 15px;
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-3 {
+    position: absolute;
+    top: 45.3%;
+    left: 0%;
+    right: 1.66%;
+    bottom: 37.26%;
+    width: calc(100% - 0% - 1.66%);
+    height: calc(100% - 45.3% - 37.26%);
+    color: #555555;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-3 > div {
+    width: 100%;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .lorem-ipsum-dolor-sit-amet-consete-sadipscing-elitr-sed-diam-nonumy-3 > div span:nth-child(2) {
+    font-weight: 700;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 {
+    position: absolute;
+    top: 75.26%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 75.26% - 0%);
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 .rectangle-2901 {
+    position: absolute;
+    top: 35.91%;
+    left: 0%;
+    right: 0.92%;
+    bottom: 51.28%;
+    width: calc(100% - 0% - 0.92%);
+    height: calc(100% - 35.91% - 51.28%);
+    background: #E7D4C7;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 .rectangle-2902 {
+    position: absolute;
+    top: 35.91%;
+    left: 0%;
+    right: 36.92%;
+    bottom: 51.28%;
+    width: calc(100% - 0% - 36.92%);
+    height: calc(100% - 35.91% - 51.28%);
+    background: #FF720C;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 .text-60 {
+    position: absolute;
+    top: 0%;
+    left: 88.85%;
+    right: 0%;
+    bottom: 73.92%;
+    width: calc(100% - 88.85% - 0%);
+    height: calc(100% - 0% - 73.92%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 .raised-600 {
+    position: absolute;
+    top: 74.36%;
+    left: 0%;
+    right: 66.61%;
+    bottom: 0.02%;
+    width: calc(100% - 0% - 66.61%);
+    height: calc(100% - 74.36% - 0.02%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 .goal-1-000 {
+    position: absolute;
+    top: 74.36%;
+    left: 67.54%;
+    right: 1.66%;
+    bottom: 0.02%;
+    width: calc(100% - 67.54% - 1.66%);
+    height: calc(100% - 74.36% - 0.02%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-main .blogcarddata1 .group-3227 .donatone-3 {
+    position: absolute;
+    top: 0.68%;
+    left: 0%;
+    right: 73.65%;
+    bottom: 73.7%;
+    width: calc(100% - 0% - 73.65%);
+    height: calc(100% - 0.68% - 73.7%);
+    color: #252A34;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+  }
+  .blog-cards .blog-card-main .pen-path-3 {
+    position: absolute;
+    top: 14.67%;
+    left: 22.67%;
+    right: -0.12%;
+    bottom: 59.62%;
+  }
+  .blog-cards .find-the-popular-cause-and-donate-them {
+    position: absolute;
+    top: 0%;
+    left: 23.6%;
+    right: 23.57%;
+    bottom: 84.83%;
+    width: calc(100% - 23.6% - 23.57%);
+    height: calc(100% - 0% - 84.83%);
+    color: #252A34;
+    font-family: "Playfair Display";
+    font-size: 30px;
+    line-height: 35px;
+    font-weight: 700;
+  }
+  

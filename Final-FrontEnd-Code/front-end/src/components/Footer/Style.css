@@ -1,0 +1,400 @@
+.footer {
+    top: 2200px;
+    width: 1440px;
+    height: 176.47px;
+  }
+  .footer .footerblack {
+    position: absolute;
+    top: 2250px;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: 500.47px;
+    background: #22262F;
+  }
+  .footer .footerdata {
+    position: absolute;
+    top: 2400px;
+    left: 21.39%;
+    right: 17.36%;
+    bottom: 22.8%;
+    width: calc(100% - 21.39% - 17.36%);
+    height: calc(100% - 32.67% - 22.8%);
+  }
+  .footer .footerdata .footer-quick-link {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 87.19%;
+    bottom: 18.28%;
+    width: calc(100% - 0% - 87.19%);
+    height: calc(100% - 0% - 18.28%);
+  }
+  .footer .footerdata .footer-quick-link .quick-link {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 23.01%;
+    bottom: 86.86%;
+    width: calc(100% - 0% - 23.01%);
+    height: calc(100% - 0% - 86.86%);
+    color: #FFFFFF;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+  }
+  .footer .footerdata .footer-quick-link .home {
+    position: absolute;
+    top: 29.2%;
+    left: 0%;
+    right: 31.86%;
+    bottom: 58.39%;
+    width: calc(100% - 0% - 31.86%);
+    height: calc(100% - 29.2% - 58.39%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer-quick-link .about-us {
+    position: absolute;
+    top: 48.18%;
+    left: 0%;
+    right: 31.86%;
+    bottom: 38.69%;
+    width: calc(100% - 0% - 31.86%);
+    height: calc(100% - 48.18% - 38.69%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer-quick-link .photo-gallery {
+    position: absolute;
+    top: 86.86%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 86.86% - 0%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer-quick-link .blog-post {
+    position: absolute;
+    top: 67.88%;
+    left: 0%;
+    right: 23.01%;
+    bottom: 19.71%;
+    width: calc(100% - 0% - 23.01%);
+    height: calc(100% - 67.88% - 19.71%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer-get-touch {
+    position: absolute;
+    top: 0%;
+    left: 17.8%;
+    right: 70.52%;
+    bottom: 49.9%;
+    width: calc(100% - 17.8% - 70.52%);
+    height: calc(100% - 0% - 49.9%);
+  }
+  .footer .footerdata .footer-get-touch .get-in-touch {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 6.8%;
+    bottom: 78.57%;
+    width: calc(100% - 0% - 6.8%);
+    height: calc(100% - 0% - 78.57%);
+    color: #FFFFFF;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+  }
+  .footer .footerdata .footer-get-touch .contact-us {
+    position: absolute;
+    top: 47.62%;
+    left: 0%;
+    right: 10.68%;
+    bottom: 32.14%;
+    width: calc(100% - 0% - 10.68%);
+    height: calc(100% - 47.62% - 32.14%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer-get-touch .our-services {
+    position: absolute;
+    top: 78.57%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 78.57% - 0%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer- {
+    position: absolute;
+    top: 0.6%;
+    left: 34.81%;
+    right: 44.27%;
+    bottom: 55.09%;
+    width: calc(100% - 34.81% - 44.27%);
+    height: calc(100% - 0.6% - 55.09%);
+  }
+  .footer .footerdata .footer- .near-baldia-mirpurkhas {
+    position: absolute;
+    top: 52.5%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 52.5% - 0%);
+    color: #AFAFAF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer- .address {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 25.2%;
+    bottom: 77.12%;
+    width: calc(100% - 0% - 25.2%);
+    height: calc(100% - 0% - 77.12%);
+    color: #FFFFFF;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+  }
+  .footer .footerdata .footer-news {
+    position: absolute;
+    top: 0px;
+    left: 537px;
+    width: 345px;
+    height: 167.65px;
+  }
+  .footer .footerdata .footer-news .subcrible {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 345px;
+    height: 87.59px;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2541 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 71.01%;
+    bottom: 79.85%;
+    width: calc(100% - 0% - 71.01%);
+    height: calc(100% - 0% - 79.85%);
+  }
+  .footer .footerdata .footer-news .subcrible .group-2541 .newsletter {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    color: #FFFFFF;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2863 {
+    position: absolute;
+    top: 26px;
+    left: 0px;
+    width: 345px;
+    height: 61.59px;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2863 .rectangle-2788 {
+    position: absolute;
+    top: 9.27%;
+    left: 0%;
+    right: 39.57%;
+    bottom: 33.43%;
+    width: calc(100% - 0% - 39.57%);
+    height: calc(100% - 9.27% - 33.43%);
+    background: #FFFFFF;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2863 .enter-your-email {
+    position: absolute;
+    top: 27.6%;
+    left: 3.48%;
+    right: 55.36%;
+    bottom: 51.29%;
+    width: calc(100% - 3.48% - 55.36%);
+    height: calc(100% - 27.6% - 51.29%);
+    color: #555555;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2863 .frame-2540 {
+    position: absolute;
+    top: 0px;
+    left: 219px;
+    width: 126px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 0px;
+    padding: 12px 24px 12px 24px;
+    background: #FF720C;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2863 .frame-2540 .subscribe {
+    flex-shrink: 0;
+    width: 78px;
+    height: 24px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-family: "Montserrat";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+  }
+  .footer .footerdata .footer-news .subcrible .group-2863 .your-email-is-safe-with-us-we-dont-spam {
+    position: absolute;
+    top: 76.12%;
+    left: 0%;
+    right: 38.04%;
+    bottom: 0%;
+    width: calc(100% - 0% - 38.04%);
+    height: calc(100% - 76.12% - 0%);
+    color: #CCCCCC;
+    font-family: "Montserrat";
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  .footer .footerdata .footer-news .socialmedia {
+    position: absolute;
+    top: 70.38%;
+    left: 0%;
+    right: 60%;
+    bottom: 0%;
+    width: calc(100% - 0% - 60%);
+    height: calc(100% - 70.38% - 0%);
+  }
+  .footer .footerdata .footer-news .socialmedia .follow-me {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 7.97%;
+    bottom: 65.76%;
+    width: calc(100% - 0% - 7.97%);
+    height: calc(100% - 0% - 65.76%);
+    color: #FFFFFF;
+    font-family: "Playfair Display";
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+  }
+  .footer .footerdata .footer-news .socialmedia .group-3251 {
+    position: absolute;
+    top: 52.37%;
+    left: 0.72%;
+    right: 0%;
+    bottom: -0.7%;
+  }
+  .footer .copyright-2024 {
+    position: absolute;
+    top: 89.84%;
+    left: 40.68%;
+    right: 40.63%;
+    bottom: 6.25%;
+    width: calc(100% - 40.68% - 40.63%);
+    height: calc(100% - 89.84% - 6.25%);
+    color: #888888;
+    font-family: "Nunito";
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .footer .line-183 {
+    position: absolute;
+    top: 2290px;
+    left: 16.25%;
+    right: 12.14%;
+    bottom: 16.41%;
+    width: calc(100% - 16.25% - 12.14%);
+    height: calc(100% - 83.59% - 16.41%);
+    border: 1px solid #454545;
+  }
+  .footer .logofooter {
+    position: absolute;
+    top: 41px;
+    left: calc(100% - 1440px + 608px);
+    width: 224px;
+    height: 40px;
+  }
+  .footer .logofooter .hamdard {
+    position: absolute;
+    top: 2280px;
+    left: 19.2%;
+    right: 0%;
+    bottom: 12.5%;
+    width: calc(100% - 19.2% - 0%);
+    height: calc(100% - 0% - 12.5%);
+    color: #FF720C;
+    font-family: "Abhaya Libre";
+    font-size: 36px;
+    line-height: 42.12px;
+    font-weight: 400;
+  }
+  .footer .logofooter .global-charity {
+    position: absolute;
+    top: 10%;
+    left: -0.89%;
+    right: 83.93%;
+    bottom: -5%;
+  }
+  .footer .copyright-2024{
+    top: 2700px;
+  }

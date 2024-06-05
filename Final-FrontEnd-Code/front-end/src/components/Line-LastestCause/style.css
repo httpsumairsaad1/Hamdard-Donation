@@ -1,0 +1,43 @@
+.line-latestcause {
+    width: 1111px;
+    height: 33px;
+    top: 1600px;
+    left: calc(100% - 1440px + 151px);
+  }
+  .line-latestcause .latest-cause {
+    position: absolute;
+    top: 9.09%;
+    left: 46.53%;
+    right: 45.99%;
+    bottom: 48.48%;
+    width: calc(100% - 46.53% - 45.99%);
+    height: calc(100% - 9.09% - 48.48%);
+    color: #000000;
+    font-family: "Abhaya Libre";
+    font-size: 16px;
+    line-height: 18.72px;
+    font-weight: 400;
+  }
+  .line-latestcause .div-rightlatest {
+    position: absolute;
+    top: 24.24%;
+    left: 57.25%;
+    right: 0%;
+    bottom: 51.52%;
+    width: calc(100% - 57.25% - 0%);
+    height: calc(100% - 24.24% - 51.52%);
+    border-radius: 8px;
+    background: #D9D9D9;
+  }
+  .line-latestcause .div-leftlatest {
+    position: absolute;
+    top: 24.24%;
+    left: 0%;
+    right: 57.25%;
+    bottom: 51.52%;
+    width: calc(100% - 0% - 57.25%);
+    height: calc(100% - 24.24% - 51.52%);
+    border-radius: 8px;
+    background: #D9D9D9;
+  }
+  

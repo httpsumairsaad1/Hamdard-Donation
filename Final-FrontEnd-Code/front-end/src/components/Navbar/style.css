@@ -1,0 +1,189 @@
+.navbarrectangle {
+  width: 1440px;
+  height: 80px;
+  position: relative;
+}
+.navbarrectangle::before {
+  content: '';
+  position: absolute; /* Position the rectangle absolutely */
+  top: 0;
+  left: 0;
+  width: 1478px;
+  height: 80px;
+  background: #ffffff;
+  z-index: -1; /* Ensure the rectangle is behind other content */
+  box-shadow: 0px 3px 30px 0px rgba(48, 48, 48, 0.797);
+}
+.toplogo {
+  position: absolute;
+  top: 0px;
+  left: -3px;
+  width: 255px;
+  height: 80px;
+  .logobackorange {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    background: #e4663a;
+  }
+  .logo {
+    position: absolute;
+    top: 21.25%;
+    left: 7.84%;
+    right: 4.31%;
+    bottom: 28.75%;
+    width: calc(100% - 7.84% - 4.31%);
+    height: calc(100% - 21.25% - 28.75%);    
+    .logo-1 {
+      position: absolute;
+      top: 0%;
+      left: 0%;
+      right: 0%;
+      bottom: 0%;
+      width: calc(100% - 0% - 0%);
+      height: calc(100% - 0% - 0%);
+      
+      .hamdard-1 {
+        position: absolute;
+        top: 0%;
+        left: 19.2%;
+        right: 0%;
+        bottom: 12.5%;
+        width: calc(100% - 19.2% - 0%);
+        height: calc(100% - 0% - 12.5%);
+        color: #ffffff;
+        font-family: "MontserratRoman-SemiBold";
+        font-size: 36px;
+        line-height: 42.12px;
+      }
+    }
+  }
+}
+.hamdard {
+    position: absolute;
+    top: 0%;
+    left: 19.2%;
+    right: 0%;
+    bottom: 12.5%;
+    width: calc(100% - 19.2% - 0%);
+    height: calc(100% - 0% - 12.5%);
+    color: rgb(255, 255, 255);
+    font-family: "MontserratRoman-SemiBold";
+    font-size: 36px;
+    line-height: 42.12px;
+}
+.languagebutton {
+    position: absolute;
+    top: 32px;
+    left: 936px;
+    width: 33px;
+    height: 17px;
+    .vector-14 {
+        position: absolute;
+        top: 35.29%;
+        left: 69.7%;
+        right: 0%;
+        bottom: 29.41%;
+    }
+    .en {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        right: 42.42%;
+        bottom: 0%;
+        width: calc(100% - 0% - 42.42%);
+        height: calc(100% - 0% - 0%);
+        color: #000000;
+        white-space: nowrap;
+        font-family: "MontserratRoman-SemiBold";
+        font-size: 14px;
+        line-height: 16.38px;
+        cursor: pointer;
+    }
+}
+
+.loginbuttonshape {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+  bottom: 0%;
+  width: calc(100% - 0% - 0%);
+  height: calc(100% - 0% - 0%);
+  border-radius: 24px;
+  background: #E4663A;
+}
+.loginbutton {
+    position: absolute;
+    top: 16px;
+    left: 1012px;
+    width: 75px;
+    height: 48px;
+    cursor: pointer;   
+}
+.login {
+  position: relative;
+  top: 29.17%;
+  left: 22.67%;
+  right: 28%;
+  bottom: 35.42%;
+  width: calc(100% - 22.67% - 28%);
+  height: calc(100% - 29.17% - 35.42%);
+  color: #FFFFFF;
+  white-space: nowrap;
+  font-family: "MontserratRoman-SemiBold";
+  font-size: 16px;
+  line-height: 16.38px;
+}
+
+.joinbutton {
+    position: absolute;
+    top: 16px;
+    left: 1107px;
+    width: 170px;
+    height: 48px;
+    cursor: pointer;
+    .joinbuttonshape {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        right: 0%;
+        bottom: 0%;
+        width: calc(100% - 0% - 0%);
+        height: calc(100% - 0% - 0%);
+        border-radius: 50px;
+        border: 3px solid #E4663A;
+    }
+    .join-as-donor {
+        position: absolute;
+        top: 29.17%;
+        left: 20.59%;
+        right: 28.24%;
+        bottom: 35.42%;
+        width: calc(100% - 20.59% - 28.24%);
+        height: calc(100% - 29.17% - 35.42%);
+        color: #E4663A;
+        white-space: nowrap;
+        font-family: "MontserratRoman-SemiBold";
+        font-size: 16px;
+        line-height: 16.38px;
+    }
+}
+
+/* Rehman */
+.lgbutton{
+  background-color: #E4663A;
+  position: absolute;
+  width: 120px;
+  height: 40px;
+  border-radius: 30px;
+  color: white;
+  outline: none;
+  border: none;
+  right: 400px;
+  top: 3%;
+}

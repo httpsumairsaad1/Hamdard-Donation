@@ -1,0 +1,243 @@
+.feature-post {
+    position: absolute;
+    top: 1038px;
+    left: calc(100% - 1440px + 151px);
+    width: 1117.96px;
+    height: 426px;
+    .welcome-to-charity {
+        position: absolute;
+        top: 12.21%;
+        left: 0%;
+        right: 50.67%;
+        bottom: 1.61%;
+        width: calc(100% - 0% - 50.67%);
+        height: calc(100% - 12.21% - 1.61%);
+        .let-us-come-together-to-make-a-difference {
+            position: absolute;
+            top: 0%;
+            left: 0.91%;
+            right: 21.31%;
+            bottom: 72.49%;
+            width: calc(100% - 0.91% - 21.31%);
+            height: calc(100% - 0% - 72.49%);
+            color: #252A34;
+            font-family: "Playfair Display";
+            font-size: 30px;
+            line-height: 35px;
+            font-weight: 700;
+        }
+        .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-nonumy-tempor-invidunt-ut-labore-et-dolore-magna-aliquyam-erat-sed-diam-voluptua-at-vero-eos-et-accusam-et-justo {
+            position: absolute;
+            top: 27.5%;
+            left: 0.85%;
+            right: 0%;
+            bottom: 51.02%;
+            width: calc(100% - 0.85% - 0%);
+            height: calc(100% - 27.5% - 51.02%);
+            color: #444444;
+            font-family: "Montserrat";
+            font-size: 12px;
+            line-height: 26px;
+            font-weight: 400;
+        }
+        .visionmission {
+            position: absolute;
+            top: 58.28%;
+            left: 0%;
+            right: 7.89%;
+            bottom: 0%;
+            width: calc(100% - 0% - 7.89%);
+            height: calc(100% - 58.28% - 0%);
+            .mission {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 53.84%;
+                bottom: 0%;
+                width: calc(100% - 0% - 53.84%);
+                height: calc(100% - 0% - 0%);
+                .missionshape {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 4.98%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 0% - 4.98%);
+                    background: #F7F3ED;
+                }
+                .missionheadling {
+                    position: absolute;
+                    top: 9.24%;
+                    left: 6.03%;
+                    right: 29.94%;
+                    bottom: 72.29%;
+                    width: calc(100% - 6.03% - 29.94%);
+                    height: calc(100% - 9.24% - 72.29%);
+                    .missionlogo {
+                        position: absolute;
+                        top: -0.38%;
+                        left: -0.1%;
+                        right: 82.78%;
+                        bottom: -2.1%;
+                    }
+                    .our-mission {
+                        position: absolute;
+                        top: 0%;
+                        left: 25.26%;
+                        right: 0.01%;
+                        bottom: 0%;
+                        width: calc(100% - 25.26% - 0.01%);
+                        height: calc(100% - 0% - 0%);
+                        color: #FF720C;
+                        font-family: "Nunito";
+                        font-size: 14px;
+                        line-height: 28px;
+                        font-weight: 700;
+                    }
+                }
+                .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam {
+                    position: absolute;
+                    top: 52.49%;
+                    left: 5.92%;
+                    right: 6.15%;
+                    bottom: 0%;
+                    width: calc(100% - 5.92% - 6.15%);
+                    height: calc(100% - 52.49% - 0%);
+                    color: #555555;
+                    font-family: "Montserrat";
+                    font-size: 8px;
+                    line-height: 12px;
+                    font-weight: 400;
+                }
+            }
+            .vission {
+                position: absolute;
+                top: 0.03%;
+                left: 54.72%;
+                right: 0%;
+                bottom: 4.66%;
+                width: calc(100% - 54.72% - 0%);
+                height: calc(100% - 0.03% - 4.66%);
+                .visionshape {
+                    position: absolute;
+                    top: 0%;
+                    left: 0%;
+                    right: 0%;
+                    bottom: 0%;
+                    width: calc(100% - 0% - 0%);
+                    height: calc(100% - 0% - 0%);
+                    background: #F7F3ED;
+                }
+                .visionheadling {
+                    position: absolute;
+                    top: 9.59%;
+                    left: 6.09%;
+                    right: 30.87%;
+                    bottom: 71.23%;
+                    width: calc(100% - 6.09% - 30.87%);
+                    height: calc(100% - 9.59% - 71.23%);
+                    .visionlogo {
+                        position: absolute;
+                        top: 0%;
+                        left: 0%;
+                        right: 77.93%;
+                        bottom: 3.57%;
+                    }
+                    .our-vission {
+                        position: absolute;
+                        top: 0%;
+                        left: 30.34%;
+                        right: 0%;
+                        bottom: 0%;
+                        width: calc(100% - 30.34% - 0%);
+                        height: calc(100% - 0% - 0%);
+                        color: #FF720C;
+                        white-space: nowrap;
+                        font-family: "Nunito";
+                        font-size: 20px;
+                        line-height: 28px;
+                        font-weight: 700;
+                    }
+                }
+                .lorem-ipsum-dolor-sit-amet-consetetur-sadipscing-elitr-sed-diam-1 {
+                    position: absolute;
+                    top: 53.42%;
+                    left: 6.09%;
+                    right: 44.35%;
+                    bottom: 21.92%;
+                    width: calc(100% - 6.09% - 44.35%);
+                    height: calc(100% - 53.42% - 21.92%);
+                    color: #555555;
+                    white-space: nowrap;
+                    font-family: "Montserrat";
+                    font-size: 8px;
+                    line-height: 12px;
+                    font-weight: 400;
+                }
+            }
+        }
+    }
+    .welcome-to-charity-1 {
+        position: absolute;
+        top: 0.7%;
+        left: 0.45%;
+        right: 84.88%;
+        bottom: 93.66%;
+        width: calc(100% - 0.45% - 84.88%);
+        height: calc(100% - 0.7% - 93.66%);
+        color: #000000;
+        font-family: "MontserratRoman-SemiBold";
+        font-size: 16px;
+        line-height: 18.72px;
+    }
+    .feature-post-image {
+        position: absolute;
+        top: 0%;
+        left: 62.63%;
+        right: 0%;
+        bottom: 0%;
+        width: calc(100% - 62.63% - 0%);
+        height: calc(100% - 0% - 0%);
+        .charityimage {
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            right: 0%;
+            bottom: 0%;
+            width: calc(100% - 0% - 0%);
+            height: calc(100% - 0% - 0%);
+            .rectangle-2870 {
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                right: 0%;
+                bottom: 0%;
+                width: calc(100% - 0% - 0%);
+                height: calc(100% - 0% - 0%);
+                background: rgba(157, 85, 33, 0.2);
+            }
+            .rectangle-2880 {
+                position: absolute;
+                top: 3.87%;
+                left: 3.94%;
+                right: 4.22%;
+                bottom: 3.87%;
+                width: calc(100% - 3.94% - 4.22%);
+                height: calc(100% - 3.87% - 3.87%);
+                object-fit: cover;
+            }
+        }
+    }
+    .charity-divideline {
+        position: absolute;
+        top: 2.11%;
+        left: 17%;
+        right: 42.04%;
+        bottom: 95.54%;
+        width: calc(100% - 17% - 42.04%);
+        height: calc(100% - 2.11% - 95.54%);
+        border-radius: 8px;
+        background: #D9D9D9;
+    }
+}

@@ -1,0 +1,27 @@
+.listOfNgos{
+    width: 100%;
+}
+
+.listOfNgos table,tr{
+    width: 100%;
+    /* border: 1px solid black; */
+}
+
+table tr{
+    border: 1px solid black;
+    height: 50px;
+}
+table tr td{
+    padding: 4px 5px;
+    
+}
+.donateButton{
+    width: 110px;
+    height: 40px;
+    border: 2px solid orangered;
+    outline: none;
+    background: transparent;
+    /* background-color: orangered; */
+    color: orangered;
+    border-radius: 5px;
+}

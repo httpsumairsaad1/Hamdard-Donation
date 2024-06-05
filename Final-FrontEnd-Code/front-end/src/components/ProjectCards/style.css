@@ -1,0 +1,398 @@
+.projectcards {
+    position: absolute;
+    top: 680px;
+    left: calc(100% - 1440px + 151px);
+    width: 1120px;
+    height: 312px;
+    margin: 0px auto;
+    
+}
+.frames {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    box-shadow: 0px 3px 10px 0px rgba(255, 255, 255, 0.745), inset 0px 4px 4px 0px rgba(255, 255, 255, 0.663);
+}
+.rectangle-2 {
+    position: absolute;
+    top: 0%;
+    left: 33.93%;
+    right: 33.93%;
+    bottom: 0%;
+    width: calc(100% - 33.93% - 33.93%);
+    height: calc(100% - 0% - 0%);
+    border-radius: 20px;
+    box-shadow: 0px 3px 10px 0px rgba(255, 123, 0, 0.797);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+.rectangle-3 {
+    position: absolute;
+    top: 0%;
+    left: 67.86%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 67.86% - 0%);
+    height: calc(100% - 0% - 0%);
+    border-radius: 20px;
+    box-shadow: 0px 3px 10px 0px rgba(255, 123, 0, 0.797);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+.rectangle-1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 67.86%;
+    bottom: 0%;
+    width: calc(100% - 0% - 67.86%);
+    height: calc(100% - 0% - 0%);
+    border-radius: 20px;
+    box-shadow: 0px 3px 10px 0px rgba(255, 123, 0, 0.797);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+}
+.allcards {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+          
+}
+.circleorange {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);                       
+}
+.mask-group {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 67.86%;
+    bottom: 0%;
+    width: calc(100% - 0% - 67.86%);
+    height: calc(100% - 0% - 0%);   
+}
+.edge {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%);
+}
+.ellipse-5 {
+    position: absolute;
+    top: -20.83%;
+    left: 45.28%;
+    right: -20%;
+    bottom: 35.26%;
+    /* background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%); */
+}
+.mask-group-1 {
+    position: absolute;
+    top: 0%;
+    left: 33.93%;
+    right: 33.93%;
+    bottom: 0%;
+    width: calc(100% - 33.93% - 33.93%);
+    height: calc(100% - 0% - 0%);                
+} 
+.edge-1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%);
+}
+.ellipse-6 {
+    position: absolute;
+    top: -20.83%;
+    left: 45.28%;
+    right: -20%;
+    bottom: 35.26%;
+}
+.mask-group-2 {
+    position: absolute;
+    top: 0%;
+    left: 67.86%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 67.86% - 0%);
+    height: calc(100% - 0% - 0%);
+   
+}
+.cardone {
+    position: absolute;
+    top: 0%;
+    left: 1.52%;
+    right: 67.86%;
+    bottom: 12.18%;
+    width: calc(100% - 1.52% - 67.86%);
+    height: calc(100% - 0% - 12.18%); 
+}
+.edge-2 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 0% - 0%);
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(228, 102, 58, 1) 0%, rgba(228, 102, 58, 0.05) 100%);
+}
+.ellipse-7 {
+    position: absolute;
+    top: -20.83%;
+    left: 45.28%;
+    right: -20%;
+    bottom: 35.26%;
+}
+.circlebehindhome {
+position: absolute;
+left: 223px;
+top: 0px;
+width: 34.99%;
+height: 43.8%;
+background-image: url('../../assests/circleBehindHome.svg');
+}
+.text-in-section-1 {
+    position: absolute;
+    top: 16.42%;
+    left: 0%;
+    right: 7.87%;
+    bottom: 0%;
+    width: calc(100% - 0% - 7.87%);
+    height: calc(100% - 16.42% - 0%);
+    
+    
+}
+.food--homeless-charity {
+    position: absolute;
+    top: 0%;
+    left: 2.53%;
+    right: 33.86%;
+    bottom: 75.55%;
+    width: calc(100% - 2.53% - 33.86%);
+    height: calc(100% - 0% - 75.55%);
+    color: #000000;
+    white-space: nowrap;
+    font-family: "Playfair Display";
+    font-size: 25px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.join-your-hand-with-us-for-a-better-life-lets-do-the-right-thing-now {
+    position: absolute;
+    top: 84.28%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 84.28% - 0%);
+    color: #000000;
+    font-family: "MontserratRoman-Bold";
+    font-size: 12px;
+    line-height: 18px;
+    >div {
+        width: 100%;
+    }
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam {
+    position: absolute;
+    top: 46.72%;
+    left: 0%;
+    right: 5.38%;
+    bottom: 21.83%;
+    width: calc(100% - 0% - 5.38%);
+    height: calc(100% - 46.72% - 21.83%);
+    color: #000000;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+}
+.home-solid {
+    position: absolute;
+    left: 250px;
+    top: 31px;
+    width: 19.24%;
+    height: 21.41%;
+    background-image: url('../../assests/home-solid.svg');
+}
+.cardtwo {
+    position: absolute;
+    top: 0%;
+    left: 35.89%;
+    right: 33.93%;
+    bottom: 13.46%;
+    width: calc(100% - 35.89% - 33.93%);
+    height: calc(100% - 0% - 13.46%);
+}
+.ellipse-367 {
+    position: absolute;
+left: 218px;
+top: 0px;
+width: 35.5%;
+height: 44.44%;
+background-image: url('../../assests/Ellipse\ 367.svg');
+}
+.text-in-section-2 {
+    position: absolute;
+    top: 15.19%;
+    left: 0%;
+    right: 6.51%;
+    bottom: 0%;
+    width: calc(100% - 0% - 6.51%);
+    height: calc(100% - 15.19% - 0%);
+}
+.education--healthy-food {
+    position: absolute;
+    top: 0%;
+    left: 2.53%;
+    right: 50%;
+    bottom: 75.55%;
+    width: calc(100% - 2.53% - 50%);
+    height: calc(100% - 0% - 75.55%);
+    color: #000000;
+    white-space: nowrap;
+    font-family: "Playfair Display";
+    font-size: 25px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.join-your-hand-with-us-for-a-better-life-lets-do-the-right-thing-now-1 {
+    position: absolute;
+    top: 84.28%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 84.28% - 0%);
+    color: #000000;
+    font-family: "MontserratRoman-Bold";
+    font-size: 12px;
+    line-height: 18px;
+    >div {
+        width: 100%;
+    }
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-1 {
+    position: absolute;
+    top: 48.47%;
+    left: 0%;
+    right: 5.38%;
+    bottom: 20.09%;
+    width: calc(100% - 0% - 5.38%);
+    height: calc(100% - 48.47% - 20.09%);
+    color: #000000;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+}
+.hand-holding-usd-solid {
+    position: absolute;
+left: 245px;
+top: 31px;
+width: 19.53%;
+height: 21.73%;
+background-image: url('../../assests/hand-holding-usd-solid.svg');
+}
+.cardthree {
+    position: absolute;
+    top: 0%;
+    left: 70.27%;
+    right: 0%;
+    bottom: 14.74%;
+    width: calc(100% - 70.27% - 0%);
+    height: calc(100% - 0% - 14.74%);
+}
+.text-in-section-3 {
+    position: absolute;
+    top: 13.91%;
+    left: 0%;
+    right: 5.11%;
+    bottom: 0%;
+    width: calc(100% - 0% - 5.11%);
+    height: calc(100% - 13.91% - 0%);   
+}
+.bring-people-together {
+    position: absolute;
+    top: 0%;
+    left: 2.53%;
+    right: 51.9%;
+    bottom: 75.55%;
+    width: calc(100% - 2.53% - 51.9%);
+    height: calc(100% - 0% - 75.55%);
+    color: #000000;
+    white-space: nowrap;
+    font-family: "Playfair Display";
+    font-size: 25px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.join-your-hand-with-us-for-a-better-life-lets-do-the-right-thing-now-2 {
+    position: absolute;
+    top: 84.28%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    width: calc(100% - 0% - 0%);
+    height: calc(100% - 84.28% - 0%);
+    color: #000000;
+    font-family: "MontserratRoman-Bold";
+    font-size: 12px;
+    line-height: 18px;
+    >div {
+        width: 100%;
+    }
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-2 {
+    position: absolute;
+    top: 48.03%;
+    left: 0%;
+    right: 5.38%;
+    bottom: 20.52%;
+    width: calc(100% - 0% - 5.38%);
+    height: calc(100% - 48.03% - 20.52%);
+    color: #000000;
+    font-family: "Montserrat";
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 500;
+}
+.ellipse-369 {
+    position: absolute;
+    left: 213px;
+    top: 0px;
+    width: 36.04%;
+    height: 45.11%;
+    background-image: url('../../assests//Ellipse\ 369.svg');
+
+}
+.handshake-regular {
+position: absolute;
+left: 240px;
+top: 34px;
+width: 19.82%;
+height: 19.85%;
+    background-image: url('../../assests/handshake-regular.svg');
+    background-size: 100%;
+}
